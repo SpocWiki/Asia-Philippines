@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::14.59] 
 [name::Manila] 
 State ::  
-Country :: [[Philippines]]  
+Country ::[[../../../../Malay_Archipelago/Philippines]]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
