@@ -1,17 +1,18 @@
 ---
 location:
-- 14.59
-- 120.97
+  - 14.59
+  - 120.97
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26994
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Philippines
 linkTitle: 
@@ -20,42 +21,31 @@ layout:
 draft: false
 publishDate: 
 expiryDate: 
-aliases:
-- PH
-- PHL
-- Philippines
-- Filipinas
-- الفلبين
-- 菲律宾
-- Филиппины
-- the Republic of the Philippines
-- Philippines (the)
-- la República de Filipinas
 Languages:
-- tl
-- en-PH
-- fil
-- ceb
-- tgl
-- ilo
-- hil
-- war
-- pam
-- bik
-- bcl
-- pag
-- mrw
-- tsg
-- mdh
-- cbk
-- krj
-- sgd
-- msb
-- akl
-- ibg
-- yka
-- mta
-- abx
+  - tl
+  - en-PH
+  - fil
+  - ceb
+  - tgl
+  - ilo
+  - hil
+  - war
+  - pam
+  - bik
+  - bcl
+  - pag
+  - mrw
+  - tsg
+  - mdh
+  - cbk
+  - krj
+  - sgd
+  - msb
+  - akl
+  - ibg
+  - yka
+  - mta
+  - abx
 ---
 
 
@@ -124,10 +114,12 @@ Sub-region_Name ::  [[South-eastern Asia]]
 
 
 Check out this Repository into this Subfolder: 
-\_Standards\geo\Continent\Asia\Asia~South~East\Philippines
+`\_Standards\geo\Continent\Asia\Asia~South~East\Philippines` 
 
-> Caution: this is a very deep folder Structure with up to 180 Characters! 
+> Caution: this is a very deep and wide folder Structure with up to 180 Characters! 
 > Make sure to check it out into a shallow Location on Windows! 
+> The `Cities~` Levels have been zipped, 
+> because Obsidian has Memory-problems importing them all at once.
 > 
 > If you see a chance to reduce this Depth, create an Issue and discuss first, because any Change may break Links! 
 > Constraints to consider when refactoring: 
@@ -158,7 +150,7 @@ markerFolder: ./
 [Area-Land::298170] 
 Continent :: [[Oceania]]  
 [VehicleCode::RP] 
-Capital :: [[Manila]]  
+Capital :: [[geo/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Manila]]  
 [Alcohol-l::6.4] 
 [Language-Id::472] 
 [geo-lon::120.97] 
