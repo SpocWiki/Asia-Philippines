@@ -29,6 +29,8 @@ expiryDate:
 
 # Iloilo
 
+## #has_/map 
+
 ```leaflet
 id: Iloilo
 zoomFeatures: true 
