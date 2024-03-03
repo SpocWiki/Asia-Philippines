@@ -37,7 +37,7 @@ Icon
 *.bak
 *.git
 *.vrn
-*.zip
+#*.zip
 *.rar
 *.7z
 
