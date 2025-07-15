@@ -40,11 +40,18 @@ markerFolder: ./Ifugao/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ifugao|Ifugao]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ifugao.public|Ifugao.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ifugao.internal|Ifugao.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ifugao.protect|Ifugao.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ifugao.private|Ifugao.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ifugao.personal|Ifugao.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ifugao.secret|Ifugao.secret]] 
+
+### #is_/same_as :: [Ifugao](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ifugao.md) 
+
+### #is_/same_as :: [Ifugao.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ifugao.public.md) 
+
+### #is_/same_as :: [Ifugao.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ifugao.internal.md) 
+
+### #is_/same_as :: [Ifugao.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ifugao.protect.md) 
+
+### #is_/same_as :: [Ifugao.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ifugao.private.md) 
+
+### #is_/same_as :: [Ifugao.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ifugao.personal.md) 
+
+### #is_/same_as :: [Ifugao.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ifugao.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Cotabato/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Cotabato|Cotabato]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Cotabato.public|Cotabato.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Cotabato.internal|Cotabato.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Cotabato.protect|Cotabato.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Cotabato.private|Cotabato.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Cotabato.personal|Cotabato.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Cotabato.secret|Cotabato.secret]] 
+
+### #is_/same_as :: [Cotabato](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Cotabato.md) 
+
+### #is_/same_as :: [Cotabato.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Cotabato.public.md) 
+
+### #is_/same_as :: [Cotabato.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Cotabato.internal.md) 
+
+### #is_/same_as :: [Cotabato.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Cotabato.protect.md) 
+
+### #is_/same_as :: [Cotabato.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Cotabato.private.md) 
+
+### #is_/same_as :: [Cotabato.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Cotabato.personal.md) 
+
+### #is_/same_as :: [Cotabato.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Cotabato.secret.md)
 

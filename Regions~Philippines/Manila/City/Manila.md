@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Philippines/City/Manila|Manila]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Philippines/City/Manila.public|Manila.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Philippines/City/Manila.internal|Manila.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Philippines/City/Manila.protect|Manila.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Philippines/City/Manila.private|Manila.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Philippines/City/Manila.personal|Manila.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Philippines/City/Manila.secret|Manila.secret]] 
+
+### #is_/same_as :: [Manila](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Manila/City/Manila.md) 
+
+### #is_/same_as :: [Manila.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Manila/City/Manila.public.md) 
+
+### #is_/same_as :: [Manila.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Manila/City/Manila.internal.md) 
+
+### #is_/same_as :: [Manila.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Manila/City/Manila.protect.md) 
+
+### #is_/same_as :: [Manila.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Manila/City/Manila.private.md) 
+
+### #is_/same_as :: [Manila.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Manila/City/Manila.personal.md) 
+
+### #is_/same_as :: [Manila.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Manila/City/Manila.secret.md)
+

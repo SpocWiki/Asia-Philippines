@@ -40,11 +40,18 @@ markerFolder: ./Davao_del_Sur/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Sur|Davao_del_Sur]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Sur.public|Davao_del_Sur.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Sur.internal|Davao_del_Sur.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Sur.protect|Davao_del_Sur.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Sur.private|Davao_del_Sur.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Sur.personal|Davao_del_Sur.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Sur.secret|Davao_del_Sur.secret]] 
+
+### #is_/same_as :: [Davao_del_Sur](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Davao_del_Sur.md) 
+
+### #is_/same_as :: [Davao_del_Sur.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Davao_del_Sur.public.md) 
+
+### #is_/same_as :: [Davao_del_Sur.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Davao_del_Sur.internal.md) 
+
+### #is_/same_as :: [Davao_del_Sur.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Davao_del_Sur.protect.md) 
+
+### #is_/same_as :: [Davao_del_Sur.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Davao_del_Sur.private.md) 
+
+### #is_/same_as :: [Davao_del_Sur.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Davao_del_Sur.personal.md) 
+
+### #is_/same_as :: [Davao_del_Sur.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Davao_del_Sur.secret.md)
 

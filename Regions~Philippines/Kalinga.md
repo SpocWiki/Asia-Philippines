@@ -40,11 +40,18 @@ markerFolder: ./Kalinga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Kalinga|Kalinga]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Kalinga.public|Kalinga.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Kalinga.internal|Kalinga.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Kalinga.protect|Kalinga.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Kalinga.private|Kalinga.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Kalinga.personal|Kalinga.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Kalinga.secret|Kalinga.secret]] 
+
+### #is_/same_as :: [Kalinga](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Kalinga.md) 
+
+### #is_/same_as :: [Kalinga.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Kalinga.public.md) 
+
+### #is_/same_as :: [Kalinga.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Kalinga.internal.md) 
+
+### #is_/same_as :: [Kalinga.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Kalinga.protect.md) 
+
+### #is_/same_as :: [Kalinga.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Kalinga.private.md) 
+
+### #is_/same_as :: [Kalinga.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Kalinga.personal.md) 
+
+### #is_/same_as :: [Kalinga.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Kalinga.secret.md)
 

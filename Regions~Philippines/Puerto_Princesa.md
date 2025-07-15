@@ -40,11 +40,18 @@ markerFolder: ./Puerto_Princesa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Puerto_Princesa|Puerto_Princesa]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Puerto_Princesa.public|Puerto_Princesa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Puerto_Princesa.internal|Puerto_Princesa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Puerto_Princesa.protect|Puerto_Princesa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Puerto_Princesa.private|Puerto_Princesa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Puerto_Princesa.personal|Puerto_Princesa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Puerto_Princesa.secret|Puerto_Princesa.secret]] 
+
+### #is_/same_as :: [Puerto_Princesa](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Puerto_Princesa.md) 
+
+### #is_/same_as :: [Puerto_Princesa.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Puerto_Princesa.public.md) 
+
+### #is_/same_as :: [Puerto_Princesa.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Puerto_Princesa.internal.md) 
+
+### #is_/same_as :: [Puerto_Princesa.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Puerto_Princesa.protect.md) 
+
+### #is_/same_as :: [Puerto_Princesa.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Puerto_Princesa.private.md) 
+
+### #is_/same_as :: [Puerto_Princesa.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Puerto_Princesa.personal.md) 
+
+### #is_/same_as :: [Puerto_Princesa.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Puerto_Princesa.secret.md)
 

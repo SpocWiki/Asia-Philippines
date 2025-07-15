@@ -40,11 +40,18 @@ markerFolder: ./Tawi-Tawi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tawi-Tawi|Tawi-Tawi]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tawi-Tawi.public|Tawi-Tawi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tawi-Tawi.internal|Tawi-Tawi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tawi-Tawi.protect|Tawi-Tawi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tawi-Tawi.private|Tawi-Tawi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tawi-Tawi.personal|Tawi-Tawi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tawi-Tawi.secret|Tawi-Tawi.secret]] 
+
+### #is_/same_as :: [Tawi-Tawi](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Tawi-Tawi.md) 
+
+### #is_/same_as :: [Tawi-Tawi.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Tawi-Tawi.public.md) 
+
+### #is_/same_as :: [Tawi-Tawi.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Tawi-Tawi.internal.md) 
+
+### #is_/same_as :: [Tawi-Tawi.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Tawi-Tawi.protect.md) 
+
+### #is_/same_as :: [Tawi-Tawi.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Tawi-Tawi.private.md) 
+
+### #is_/same_as :: [Tawi-Tawi.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Tawi-Tawi.personal.md) 
+
+### #is_/same_as :: [Tawi-Tawi.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Tawi-Tawi.secret.md)
 

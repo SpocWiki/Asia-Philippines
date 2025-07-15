@@ -40,11 +40,18 @@ markerFolder: ./Mindoro_Oriental/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mindoro_Oriental|Mindoro_Oriental]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mindoro_Oriental.public|Mindoro_Oriental.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mindoro_Oriental.internal|Mindoro_Oriental.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mindoro_Oriental.protect|Mindoro_Oriental.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mindoro_Oriental.private|Mindoro_Oriental.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mindoro_Oriental.personal|Mindoro_Oriental.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mindoro_Oriental.secret|Mindoro_Oriental.secret]] 
+
+### #is_/same_as :: [Mindoro~Oriental](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Mindoro~Oriental.md) 
+
+### #is_/same_as :: [Mindoro~Oriental.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Mindoro~Oriental.public.md) 
+
+### #is_/same_as :: [Mindoro~Oriental.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Mindoro~Oriental.internal.md) 
+
+### #is_/same_as :: [Mindoro~Oriental.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Mindoro~Oriental.protect.md) 
+
+### #is_/same_as :: [Mindoro~Oriental.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Mindoro~Oriental.private.md) 
+
+### #is_/same_as :: [Mindoro~Oriental.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Mindoro~Oriental.personal.md) 
+
+### #is_/same_as :: [Mindoro~Oriental.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Mindoro~Oriental.secret.md)
 

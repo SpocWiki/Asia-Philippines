@@ -40,11 +40,18 @@ markerFolder: ./Mandaue/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mandaue|Mandaue]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mandaue.public|Mandaue.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mandaue.internal|Mandaue.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mandaue.protect|Mandaue.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mandaue.private|Mandaue.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mandaue.personal|Mandaue.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mandaue.secret|Mandaue.secret]] 
+
+### #is_/same_as :: [Mandaue](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Mandaue.md) 
+
+### #is_/same_as :: [Mandaue.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Mandaue.public.md) 
+
+### #is_/same_as :: [Mandaue.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Mandaue.internal.md) 
+
+### #is_/same_as :: [Mandaue.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Mandaue.protect.md) 
+
+### #is_/same_as :: [Mandaue.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Mandaue.private.md) 
+
+### #is_/same_as :: [Mandaue.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Mandaue.personal.md) 
+
+### #is_/same_as :: [Mandaue.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Mandaue.secret.md)
 

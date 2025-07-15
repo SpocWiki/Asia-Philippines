@@ -40,11 +40,18 @@ markerFolder: ./Pangasinan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Pangasinan|Pangasinan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Pangasinan.public|Pangasinan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Pangasinan.internal|Pangasinan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Pangasinan.protect|Pangasinan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Pangasinan.private|Pangasinan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Pangasinan.personal|Pangasinan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Pangasinan.secret|Pangasinan.secret]] 
+
+### #is_/same_as :: [Pangasinan](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Pangasinan.md) 
+
+### #is_/same_as :: [Pangasinan.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Pangasinan.public.md) 
+
+### #is_/same_as :: [Pangasinan.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Pangasinan.internal.md) 
+
+### #is_/same_as :: [Pangasinan.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Pangasinan.protect.md) 
+
+### #is_/same_as :: [Pangasinan.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Pangasinan.private.md) 
+
+### #is_/same_as :: [Pangasinan.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Pangasinan.personal.md) 
+
+### #is_/same_as :: [Pangasinan.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Pangasinan.secret.md)
 

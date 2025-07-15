@@ -40,11 +40,18 @@ markerFolder: ./Las_Pinas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Las_Pinas|Las_Pinas]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Las_Pinas.public|Las_Pinas.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Las_Pinas.internal|Las_Pinas.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Las_Pinas.protect|Las_Pinas.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Las_Pinas.private|Las_Pinas.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Las_Pinas.personal|Las_Pinas.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Las_Pinas.secret|Las_Pinas.secret]] 
+
+### #is_/same_as :: [Las_Pinas](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Las_Pinas.md) 
+
+### #is_/same_as :: [Las_Pinas.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Las_Pinas.public.md) 
+
+### #is_/same_as :: [Las_Pinas.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Las_Pinas.internal.md) 
+
+### #is_/same_as :: [Las_Pinas.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Las_Pinas.protect.md) 
+
+### #is_/same_as :: [Las_Pinas.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Las_Pinas.private.md) 
+
+### #is_/same_as :: [Las_Pinas.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Las_Pinas.personal.md) 
+
+### #is_/same_as :: [Las_Pinas.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Las_Pinas.secret.md)
 

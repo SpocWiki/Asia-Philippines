@@ -40,11 +40,18 @@ markerFolder: ./Tarlac/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tarlac|Tarlac]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tarlac.public|Tarlac.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tarlac.internal|Tarlac.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tarlac.protect|Tarlac.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tarlac.private|Tarlac.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tarlac.personal|Tarlac.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tarlac.secret|Tarlac.secret]] 
+
+### #is_/same_as :: [Tarlac](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Tarlac.md) 
+
+### #is_/same_as :: [Tarlac.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Tarlac.public.md) 
+
+### #is_/same_as :: [Tarlac.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Tarlac.internal.md) 
+
+### #is_/same_as :: [Tarlac.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Tarlac.protect.md) 
+
+### #is_/same_as :: [Tarlac.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Tarlac.private.md) 
+
+### #is_/same_as :: [Tarlac.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Tarlac.personal.md) 
+
+### #is_/same_as :: [Tarlac.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Tarlac.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Nueva_Ecija/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Ecija|Nueva_Ecija]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Ecija.public|Nueva_Ecija.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Ecija.internal|Nueva_Ecija.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Ecija.protect|Nueva_Ecija.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Ecija.private|Nueva_Ecija.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Ecija.personal|Nueva_Ecija.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Ecija.secret|Nueva_Ecija.secret]] 
+
+### #is_/same_as :: [Nueva_Ecija](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Nueva_Ecija.md) 
+
+### #is_/same_as :: [Nueva_Ecija.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Nueva_Ecija.public.md) 
+
+### #is_/same_as :: [Nueva_Ecija.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Nueva_Ecija.internal.md) 
+
+### #is_/same_as :: [Nueva_Ecija.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Nueva_Ecija.protect.md) 
+
+### #is_/same_as :: [Nueva_Ecija.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Nueva_Ecija.private.md) 
+
+### #is_/same_as :: [Nueva_Ecija.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Nueva_Ecija.personal.md) 
+
+### #is_/same_as :: [Nueva_Ecija.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Nueva_Ecija.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Marinduque/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Marinduque|Marinduque]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Marinduque.public|Marinduque.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Marinduque.internal|Marinduque.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Marinduque.protect|Marinduque.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Marinduque.private|Marinduque.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Marinduque.personal|Marinduque.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Marinduque.secret|Marinduque.secret]] 
+
+### #is_/same_as :: [Marinduque](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Marinduque.md) 
+
+### #is_/same_as :: [Marinduque.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Marinduque.public.md) 
+
+### #is_/same_as :: [Marinduque.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Marinduque.internal.md) 
+
+### #is_/same_as :: [Marinduque.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Marinduque.protect.md) 
+
+### #is_/same_as :: [Marinduque.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Marinduque.private.md) 
+
+### #is_/same_as :: [Marinduque.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Marinduque.personal.md) 
+
+### #is_/same_as :: [Marinduque.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Marinduque.secret.md)
 

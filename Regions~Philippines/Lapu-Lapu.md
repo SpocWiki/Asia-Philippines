@@ -40,11 +40,18 @@ markerFolder: ./Lapu-Lapu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lapu-Lapu|Lapu-Lapu]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lapu-Lapu.public|Lapu-Lapu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lapu-Lapu.internal|Lapu-Lapu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lapu-Lapu.protect|Lapu-Lapu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lapu-Lapu.private|Lapu-Lapu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lapu-Lapu.personal|Lapu-Lapu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lapu-Lapu.secret|Lapu-Lapu.secret]] 
+
+### #is_/same_as :: [Lapu-Lapu](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Lapu-Lapu.md) 
+
+### #is_/same_as :: [Lapu-Lapu.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Lapu-Lapu.public.md) 
+
+### #is_/same_as :: [Lapu-Lapu.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Lapu-Lapu.internal.md) 
+
+### #is_/same_as :: [Lapu-Lapu.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Lapu-Lapu.protect.md) 
+
+### #is_/same_as :: [Lapu-Lapu.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Lapu-Lapu.private.md) 
+
+### #is_/same_as :: [Lapu-Lapu.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Lapu-Lapu.personal.md) 
+
+### #is_/same_as :: [Lapu-Lapu.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Lapu-Lapu.secret.md)
 

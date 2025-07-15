@@ -40,11 +40,18 @@ markerFolder: ./Bulacan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Bulacan|Bulacan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Bulacan.public|Bulacan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Bulacan.internal|Bulacan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Bulacan.protect|Bulacan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Bulacan.private|Bulacan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Bulacan.personal|Bulacan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Bulacan.secret|Bulacan.secret]] 
+
+### #is_/same_as :: [Bulacan](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Bulacan.md) 
+
+### #is_/same_as :: [Bulacan.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Bulacan.public.md) 
+
+### #is_/same_as :: [Bulacan.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Bulacan.internal.md) 
+
+### #is_/same_as :: [Bulacan.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Bulacan.protect.md) 
+
+### #is_/same_as :: [Bulacan.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Bulacan.private.md) 
+
+### #is_/same_as :: [Bulacan.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Bulacan.personal.md) 
+
+### #is_/same_as :: [Bulacan.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Bulacan.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Camiguin/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Camiguin|Camiguin]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Camiguin.public|Camiguin.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Camiguin.internal|Camiguin.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Camiguin.protect|Camiguin.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Camiguin.private|Camiguin.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Camiguin.personal|Camiguin.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Camiguin.secret|Camiguin.secret]] 
+
+### #is_/same_as :: [Camiguin](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Camiguin.md) 
+
+### #is_/same_as :: [Camiguin.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Camiguin.public.md) 
+
+### #is_/same_as :: [Camiguin.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Camiguin.internal.md) 
+
+### #is_/same_as :: [Camiguin.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Camiguin.protect.md) 
+
+### #is_/same_as :: [Camiguin.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Camiguin.private.md) 
+
+### #is_/same_as :: [Camiguin.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Camiguin.personal.md) 
+
+### #is_/same_as :: [Camiguin.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Camiguin.secret.md)
 

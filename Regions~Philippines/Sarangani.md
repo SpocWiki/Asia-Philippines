@@ -40,11 +40,18 @@ markerFolder: ./Sarangani/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sarangani|Sarangani]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sarangani.public|Sarangani.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sarangani.internal|Sarangani.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sarangani.protect|Sarangani.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sarangani.private|Sarangani.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sarangani.personal|Sarangani.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sarangani.secret|Sarangani.secret]] 
+
+### #is_/same_as :: [Sarangani](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Sarangani.md) 
+
+### #is_/same_as :: [Sarangani.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Sarangani.public.md) 
+
+### #is_/same_as :: [Sarangani.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Sarangani.internal.md) 
+
+### #is_/same_as :: [Sarangani.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Sarangani.protect.md) 
+
+### #is_/same_as :: [Sarangani.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Sarangani.private.md) 
+
+### #is_/same_as :: [Sarangani.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Sarangani.personal.md) 
+
+### #is_/same_as :: [Sarangani.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Sarangani.secret.md)
 

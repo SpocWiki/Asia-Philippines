@@ -40,11 +40,18 @@ markerFolder: ./Tacloban/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tacloban|Tacloban]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tacloban.public|Tacloban.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tacloban.internal|Tacloban.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tacloban.protect|Tacloban.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tacloban.private|Tacloban.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tacloban.personal|Tacloban.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tacloban.secret|Tacloban.secret]] 
+
+### #is_/same_as :: [Tacloban](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Tacloban.md) 
+
+### #is_/same_as :: [Tacloban.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Tacloban.public.md) 
+
+### #is_/same_as :: [Tacloban.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Tacloban.internal.md) 
+
+### #is_/same_as :: [Tacloban.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Tacloban.protect.md) 
+
+### #is_/same_as :: [Tacloban.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Tacloban.private.md) 
+
+### #is_/same_as :: [Tacloban.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Tacloban.personal.md) 
+
+### #is_/same_as :: [Tacloban.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Tacloban.secret.md)
 

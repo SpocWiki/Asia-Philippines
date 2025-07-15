@@ -40,11 +40,18 @@ markerFolder: ./Valenzuela/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Valenzuela|Valenzuela]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Valenzuela.public|Valenzuela.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Valenzuela.internal|Valenzuela.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Valenzuela.protect|Valenzuela.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Valenzuela.private|Valenzuela.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Valenzuela.personal|Valenzuela.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Valenzuela.secret|Valenzuela.secret]] 
+
+### #is_/same_as :: [Valenzuela](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Valenzuela.md) 
+
+### #is_/same_as :: [Valenzuela.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Valenzuela.public.md) 
+
+### #is_/same_as :: [Valenzuela.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Valenzuela.internal.md) 
+
+### #is_/same_as :: [Valenzuela.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Valenzuela.protect.md) 
+
+### #is_/same_as :: [Valenzuela.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Valenzuela.private.md) 
+
+### #is_/same_as :: [Valenzuela.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Valenzuela.personal.md) 
+
+### #is_/same_as :: [Valenzuela.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Valenzuela.secret.md)
 

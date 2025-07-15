@@ -40,11 +40,18 @@ markerFolder: ./San_Juan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/San_Juan|San_Juan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/San_Juan.public|San_Juan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/San_Juan.internal|San_Juan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/San_Juan.protect|San_Juan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/San_Juan.private|San_Juan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/San_Juan.personal|San_Juan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/San_Juan.secret|San_Juan.secret]] 
+
+### #is_/same_as :: [San_Juan](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/San_Juan.md) 
+
+### #is_/same_as :: [San_Juan.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/San_Juan.public.md) 
+
+### #is_/same_as :: [San_Juan.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/San_Juan.internal.md) 
+
+### #is_/same_as :: [San_Juan.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/San_Juan.protect.md) 
+
+### #is_/same_as :: [San_Juan.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/San_Juan.private.md) 
+
+### #is_/same_as :: [San_Juan.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/San_Juan.personal.md) 
+
+### #is_/same_as :: [San_Juan.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/San_Juan.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Sorsogon/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sorsogon|Sorsogon]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sorsogon.public|Sorsogon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sorsogon.internal|Sorsogon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sorsogon.protect|Sorsogon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sorsogon.private|Sorsogon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sorsogon.personal|Sorsogon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sorsogon.secret|Sorsogon.secret]] 
+
+### #is_/same_as :: [Sorsogon](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Sorsogon.md) 
+
+### #is_/same_as :: [Sorsogon.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Sorsogon.public.md) 
+
+### #is_/same_as :: [Sorsogon.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Sorsogon.internal.md) 
+
+### #is_/same_as :: [Sorsogon.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Sorsogon.protect.md) 
+
+### #is_/same_as :: [Sorsogon.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Sorsogon.private.md) 
+
+### #is_/same_as :: [Sorsogon.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Sorsogon.personal.md) 
+
+### #is_/same_as :: [Sorsogon.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Sorsogon.secret.md)
 

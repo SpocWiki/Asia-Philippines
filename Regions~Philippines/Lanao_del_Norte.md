@@ -40,11 +40,18 @@ markerFolder: ./Lanao_del_Norte/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lanao_del_Norte|Lanao_del_Norte]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lanao_del_Norte.public|Lanao_del_Norte.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lanao_del_Norte.internal|Lanao_del_Norte.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lanao_del_Norte.protect|Lanao_del_Norte.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lanao_del_Norte.private|Lanao_del_Norte.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lanao_del_Norte.personal|Lanao_del_Norte.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lanao_del_Norte.secret|Lanao_del_Norte.secret]] 
+
+### #is_/same_as :: [Lanao_del_Norte](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Lanao_del_Norte.md) 
+
+### #is_/same_as :: [Lanao_del_Norte.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Lanao_del_Norte.public.md) 
+
+### #is_/same_as :: [Lanao_del_Norte.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Lanao_del_Norte.internal.md) 
+
+### #is_/same_as :: [Lanao_del_Norte.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Lanao_del_Norte.protect.md) 
+
+### #is_/same_as :: [Lanao_del_Norte.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Lanao_del_Norte.private.md) 
+
+### #is_/same_as :: [Lanao_del_Norte.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Lanao_del_Norte.personal.md) 
+
+### #is_/same_as :: [Lanao_del_Norte.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Lanao_del_Norte.secret.md)
 

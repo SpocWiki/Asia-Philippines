@@ -40,11 +40,18 @@ markerFolder: ./Misamis_Oriental/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Misamis_Oriental|Misamis_Oriental]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Misamis_Oriental.public|Misamis_Oriental.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Misamis_Oriental.internal|Misamis_Oriental.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Misamis_Oriental.protect|Misamis_Oriental.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Misamis_Oriental.private|Misamis_Oriental.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Misamis_Oriental.personal|Misamis_Oriental.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Misamis_Oriental.secret|Misamis_Oriental.secret]] 
+
+### #is_/same_as :: [Misamis~Oriental](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Misamis~Oriental.md) 
+
+### #is_/same_as :: [Misamis~Oriental.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Misamis~Oriental.public.md) 
+
+### #is_/same_as :: [Misamis~Oriental.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Misamis~Oriental.internal.md) 
+
+### #is_/same_as :: [Misamis~Oriental.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Misamis~Oriental.protect.md) 
+
+### #is_/same_as :: [Misamis~Oriental.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Misamis~Oriental.private.md) 
+
+### #is_/same_as :: [Misamis~Oriental.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Misamis~Oriental.personal.md) 
+
+### #is_/same_as :: [Misamis~Oriental.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Misamis~Oriental.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Pampanga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Pampanga|Pampanga]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Pampanga.public|Pampanga.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Pampanga.internal|Pampanga.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Pampanga.protect|Pampanga.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Pampanga.private|Pampanga.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Pampanga.personal|Pampanga.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Pampanga.secret|Pampanga.secret]] 
+
+### #is_/same_as :: [Pampanga](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Pampanga.md) 
+
+### #is_/same_as :: [Pampanga.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Pampanga.public.md) 
+
+### #is_/same_as :: [Pampanga.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Pampanga.internal.md) 
+
+### #is_/same_as :: [Pampanga.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Pampanga.protect.md) 
+
+### #is_/same_as :: [Pampanga.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Pampanga.private.md) 
+
+### #is_/same_as :: [Pampanga.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Pampanga.personal.md) 
+
+### #is_/same_as :: [Pampanga.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Pampanga.secret.md)
 

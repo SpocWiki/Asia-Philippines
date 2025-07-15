@@ -40,11 +40,18 @@ markerFolder: ./Zamboanga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga|Zamboanga]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga.public|Zamboanga.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga.internal|Zamboanga.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga.protect|Zamboanga.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga.private|Zamboanga.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga.personal|Zamboanga.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga.secret|Zamboanga.secret]] 
+
+### #is_/same_as :: [Zamboanga](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Zamboanga.md) 
+
+### #is_/same_as :: [Zamboanga.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Zamboanga.public.md) 
+
+### #is_/same_as :: [Zamboanga.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Zamboanga.internal.md) 
+
+### #is_/same_as :: [Zamboanga.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Zamboanga.protect.md) 
+
+### #is_/same_as :: [Zamboanga.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Zamboanga.private.md) 
+
+### #is_/same_as :: [Zamboanga.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Zamboanga.personal.md) 
+
+### #is_/same_as :: [Zamboanga.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Zamboanga.secret.md)
 

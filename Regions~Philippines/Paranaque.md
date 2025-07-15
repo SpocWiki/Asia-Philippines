@@ -40,11 +40,18 @@ markerFolder: ./Paranaque/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Paranaque|Paranaque]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Paranaque.public|Paranaque.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Paranaque.internal|Paranaque.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Paranaque.protect|Paranaque.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Paranaque.private|Paranaque.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Paranaque.personal|Paranaque.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Paranaque.secret|Paranaque.secret]] 
+
+### #is_/same_as :: [Paranaque](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Paranaque.md) 
+
+### #is_/same_as :: [Paranaque.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Paranaque.public.md) 
+
+### #is_/same_as :: [Paranaque.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Paranaque.internal.md) 
+
+### #is_/same_as :: [Paranaque.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Paranaque.protect.md) 
+
+### #is_/same_as :: [Paranaque.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Paranaque.private.md) 
+
+### #is_/same_as :: [Paranaque.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Paranaque.personal.md) 
+
+### #is_/same_as :: [Paranaque.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Paranaque.secret.md)
 

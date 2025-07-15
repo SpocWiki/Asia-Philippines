@@ -40,11 +40,18 @@ markerFolder: ./Nueva_Vizcaya/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Vizcaya|Nueva_Vizcaya]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Vizcaya.public|Nueva_Vizcaya.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Vizcaya.internal|Nueva_Vizcaya.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Vizcaya.protect|Nueva_Vizcaya.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Vizcaya.private|Nueva_Vizcaya.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Vizcaya.personal|Nueva_Vizcaya.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Vizcaya.secret|Nueva_Vizcaya.secret]] 
+
+### #is_/same_as :: [Nueva_Vizcaya](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Nueva_Vizcaya.md) 
+
+### #is_/same_as :: [Nueva_Vizcaya.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Nueva_Vizcaya.public.md) 
+
+### #is_/same_as :: [Nueva_Vizcaya.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Nueva_Vizcaya.internal.md) 
+
+### #is_/same_as :: [Nueva_Vizcaya.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Nueva_Vizcaya.protect.md) 
+
+### #is_/same_as :: [Nueva_Vizcaya.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Nueva_Vizcaya.private.md) 
+
+### #is_/same_as :: [Nueva_Vizcaya.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Nueva_Vizcaya.personal.md) 
+
+### #is_/same_as :: [Nueva_Vizcaya.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Nueva_Vizcaya.secret.md)
 

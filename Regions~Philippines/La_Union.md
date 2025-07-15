@@ -40,11 +40,18 @@ markerFolder: ./La_Union/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/La_Union|La_Union]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/La_Union.public|La_Union.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/La_Union.internal|La_Union.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/La_Union.protect|La_Union.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/La_Union.private|La_Union.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/La_Union.personal|La_Union.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/La_Union.secret|La_Union.secret]] 
+
+### #is_/same_as :: [La_Union](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/La_Union.md) 
+
+### #is_/same_as :: [La_Union.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/La_Union.public.md) 
+
+### #is_/same_as :: [La_Union.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/La_Union.internal.md) 
+
+### #is_/same_as :: [La_Union.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/La_Union.protect.md) 
+
+### #is_/same_as :: [La_Union.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/La_Union.private.md) 
+
+### #is_/same_as :: [La_Union.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/La_Union.personal.md) 
+
+### #is_/same_as :: [La_Union.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/La_Union.secret.md)
 

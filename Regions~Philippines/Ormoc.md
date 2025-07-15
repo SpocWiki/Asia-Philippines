@@ -40,11 +40,18 @@ markerFolder: ./Ormoc/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ormoc|Ormoc]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ormoc.public|Ormoc.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ormoc.internal|Ormoc.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ormoc.protect|Ormoc.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ormoc.private|Ormoc.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ormoc.personal|Ormoc.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ormoc.secret|Ormoc.secret]] 
+
+### #is_/same_as :: [Ormoc](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ormoc.md) 
+
+### #is_/same_as :: [Ormoc.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ormoc.public.md) 
+
+### #is_/same_as :: [Ormoc.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ormoc.internal.md) 
+
+### #is_/same_as :: [Ormoc.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ormoc.protect.md) 
+
+### #is_/same_as :: [Ormoc.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ormoc.private.md) 
+
+### #is_/same_as :: [Ormoc.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ormoc.personal.md) 
+
+### #is_/same_as :: [Ormoc.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ormoc.secret.md)
 

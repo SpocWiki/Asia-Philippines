@@ -40,11 +40,18 @@ markerFolder: ./Guimaras/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Guimaras|Guimaras]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Guimaras.public|Guimaras.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Guimaras.internal|Guimaras.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Guimaras.protect|Guimaras.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Guimaras.private|Guimaras.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Guimaras.personal|Guimaras.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Guimaras.secret|Guimaras.secret]] 
+
+### #is_/same_as :: [Guimaras](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Guimaras.md) 
+
+### #is_/same_as :: [Guimaras.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Guimaras.public.md) 
+
+### #is_/same_as :: [Guimaras.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Guimaras.internal.md) 
+
+### #is_/same_as :: [Guimaras.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Guimaras.protect.md) 
+
+### #is_/same_as :: [Guimaras.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Guimaras.private.md) 
+
+### #is_/same_as :: [Guimaras.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Guimaras.personal.md) 
+
+### #is_/same_as :: [Guimaras.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Guimaras.secret.md)
 

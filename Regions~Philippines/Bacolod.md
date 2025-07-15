@@ -40,11 +40,18 @@ markerFolder: ./Bacolod/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Bacolod|Bacolod]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Bacolod.public|Bacolod.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Bacolod.internal|Bacolod.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Bacolod.protect|Bacolod.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Bacolod.private|Bacolod.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Bacolod.personal|Bacolod.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Bacolod.secret|Bacolod.secret]] 
+
+### #is_/same_as :: [Bacolod](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Bacolod.md) 
+
+### #is_/same_as :: [Bacolod.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Bacolod.public.md) 
+
+### #is_/same_as :: [Bacolod.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Bacolod.internal.md) 
+
+### #is_/same_as :: [Bacolod.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Bacolod.protect.md) 
+
+### #is_/same_as :: [Bacolod.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Bacolod.private.md) 
+
+### #is_/same_as :: [Bacolod.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Bacolod.personal.md) 
+
+### #is_/same_as :: [Bacolod.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Bacolod.secret.md)
 

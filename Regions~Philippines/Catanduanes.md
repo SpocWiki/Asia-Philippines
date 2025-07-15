@@ -40,11 +40,18 @@ markerFolder: ./Catanduanes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Catanduanes|Catanduanes]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Catanduanes.public|Catanduanes.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Catanduanes.internal|Catanduanes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Catanduanes.protect|Catanduanes.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Catanduanes.private|Catanduanes.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Catanduanes.personal|Catanduanes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Catanduanes.secret|Catanduanes.secret]] 
+
+### #is_/same_as :: [Catanduanes](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Catanduanes.md) 
+
+### #is_/same_as :: [Catanduanes.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Catanduanes.public.md) 
+
+### #is_/same_as :: [Catanduanes.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Catanduanes.internal.md) 
+
+### #is_/same_as :: [Catanduanes.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Catanduanes.protect.md) 
+
+### #is_/same_as :: [Catanduanes.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Catanduanes.private.md) 
+
+### #is_/same_as :: [Catanduanes.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Catanduanes.personal.md) 
+
+### #is_/same_as :: [Catanduanes.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Catanduanes.secret.md)
 

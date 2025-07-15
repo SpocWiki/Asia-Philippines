@@ -40,11 +40,18 @@ markerFolder: ./Bukidnon/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Bukidnon|Bukidnon]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Bukidnon.public|Bukidnon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Bukidnon.internal|Bukidnon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Bukidnon.protect|Bukidnon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Bukidnon.private|Bukidnon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Bukidnon.personal|Bukidnon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Bukidnon.secret|Bukidnon.secret]] 
+
+### #is_/same_as :: [Bukidnon](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Bukidnon.md) 
+
+### #is_/same_as :: [Bukidnon.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Bukidnon.public.md) 
+
+### #is_/same_as :: [Bukidnon.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Bukidnon.internal.md) 
+
+### #is_/same_as :: [Bukidnon.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Bukidnon.protect.md) 
+
+### #is_/same_as :: [Bukidnon.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Bukidnon.private.md) 
+
+### #is_/same_as :: [Bukidnon.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Bukidnon.personal.md) 
+
+### #is_/same_as :: [Bukidnon.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Bukidnon.secret.md)
 

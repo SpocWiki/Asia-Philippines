@@ -40,11 +40,18 @@ markerFolder: ./Davao_Oriental/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_Oriental|Davao_Oriental]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_Oriental.public|Davao_Oriental.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_Oriental.internal|Davao_Oriental.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_Oriental.protect|Davao_Oriental.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_Oriental.private|Davao_Oriental.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_Oriental.personal|Davao_Oriental.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_Oriental.secret|Davao_Oriental.secret]] 
+
+### #is_/same_as :: [Davao~Oriental](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Davao~Oriental.md) 
+
+### #is_/same_as :: [Davao~Oriental.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Davao~Oriental.public.md) 
+
+### #is_/same_as :: [Davao~Oriental.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Davao~Oriental.internal.md) 
+
+### #is_/same_as :: [Davao~Oriental.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Davao~Oriental.protect.md) 
+
+### #is_/same_as :: [Davao~Oriental.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Davao~Oriental.private.md) 
+
+### #is_/same_as :: [Davao~Oriental.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Davao~Oriental.personal.md) 
+
+### #is_/same_as :: [Davao~Oriental.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Davao~Oriental.secret.md)
 

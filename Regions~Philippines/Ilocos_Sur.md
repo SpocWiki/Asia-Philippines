@@ -40,11 +40,18 @@ markerFolder: ./Ilocos_Sur/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ilocos_Sur|Ilocos_Sur]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ilocos_Sur.public|Ilocos_Sur.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ilocos_Sur.internal|Ilocos_Sur.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ilocos_Sur.protect|Ilocos_Sur.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ilocos_Sur.private|Ilocos_Sur.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ilocos_Sur.personal|Ilocos_Sur.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ilocos_Sur.secret|Ilocos_Sur.secret]] 
+
+### #is_/same_as :: [Ilocos_Sur](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Sur.md) 
+
+### #is_/same_as :: [Ilocos_Sur.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Sur.public.md) 
+
+### #is_/same_as :: [Ilocos_Sur.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Sur.internal.md) 
+
+### #is_/same_as :: [Ilocos_Sur.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Sur.protect.md) 
+
+### #is_/same_as :: [Ilocos_Sur.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Sur.private.md) 
+
+### #is_/same_as :: [Ilocos_Sur.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Sur.personal.md) 
+
+### #is_/same_as :: [Ilocos_Sur.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Sur.secret.md)
 

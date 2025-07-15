@@ -40,11 +40,18 @@ markerFolder: ./Siquijor/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Siquijor|Siquijor]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Siquijor.public|Siquijor.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Siquijor.internal|Siquijor.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Siquijor.protect|Siquijor.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Siquijor.private|Siquijor.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Siquijor.personal|Siquijor.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Siquijor.secret|Siquijor.secret]] 
+
+### #is_/same_as :: [Siquijor](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Siquijor.md) 
+
+### #is_/same_as :: [Siquijor.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Siquijor.public.md) 
+
+### #is_/same_as :: [Siquijor.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Siquijor.internal.md) 
+
+### #is_/same_as :: [Siquijor.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Siquijor.protect.md) 
+
+### #is_/same_as :: [Siquijor.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Siquijor.private.md) 
+
+### #is_/same_as :: [Siquijor.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Siquijor.personal.md) 
+
+### #is_/same_as :: [Siquijor.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Siquijor.secret.md)
 

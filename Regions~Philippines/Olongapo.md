@@ -40,11 +40,18 @@ markerFolder: ./Olongapo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Olongapo|Olongapo]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Olongapo.public|Olongapo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Olongapo.internal|Olongapo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Olongapo.protect|Olongapo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Olongapo.private|Olongapo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Olongapo.personal|Olongapo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Olongapo.secret|Olongapo.secret]] 
+
+### #is_/same_as :: [Olongapo](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Olongapo.md) 
+
+### #is_/same_as :: [Olongapo.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Olongapo.public.md) 
+
+### #is_/same_as :: [Olongapo.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Olongapo.internal.md) 
+
+### #is_/same_as :: [Olongapo.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Olongapo.protect.md) 
+
+### #is_/same_as :: [Olongapo.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Olongapo.private.md) 
+
+### #is_/same_as :: [Olongapo.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Olongapo.personal.md) 
+
+### #is_/same_as :: [Olongapo.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Olongapo.secret.md)
 

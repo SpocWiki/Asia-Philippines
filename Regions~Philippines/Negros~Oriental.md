@@ -40,11 +40,18 @@ markerFolder: ./Negros_Oriental/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Negros_Oriental|Negros_Oriental]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Negros_Oriental.public|Negros_Oriental.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Negros_Oriental.internal|Negros_Oriental.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Negros_Oriental.protect|Negros_Oriental.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Negros_Oriental.private|Negros_Oriental.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Negros_Oriental.personal|Negros_Oriental.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Negros_Oriental.secret|Negros_Oriental.secret]] 
+
+### #is_/same_as :: [Negros~Oriental](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Negros~Oriental.md) 
+
+### #is_/same_as :: [Negros~Oriental.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Negros~Oriental.public.md) 
+
+### #is_/same_as :: [Negros~Oriental.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Negros~Oriental.internal.md) 
+
+### #is_/same_as :: [Negros~Oriental.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Negros~Oriental.protect.md) 
+
+### #is_/same_as :: [Negros~Oriental.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Negros~Oriental.private.md) 
+
+### #is_/same_as :: [Negros~Oriental.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Negros~Oriental.personal.md) 
+
+### #is_/same_as :: [Negros~Oriental.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Negros~Oriental.secret.md)
 

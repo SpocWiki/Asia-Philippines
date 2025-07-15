@@ -158,10 +158,4 @@ Capital :: [[geo/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Re
 
 
 
-## Confidential Links & Embeds: 
-- [[Philippines|Philippines]]  
-- [[../../../../_internal/geo/Continent/Oceania/Philippines.internal|Philippines.internal]]  
-- [[../../../../_protect/geo/Continent/Oceania/Philippines.protect|Philippines.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Philippines.private|Philippines.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Philippines.personal|Philippines.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Philippines.secret|Philippines.secret]] 
+

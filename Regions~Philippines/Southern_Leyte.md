@@ -40,11 +40,18 @@ markerFolder: ./Southern_Leyte/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Southern_Leyte|Southern_Leyte]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Southern_Leyte.public|Southern_Leyte.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Southern_Leyte.internal|Southern_Leyte.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Southern_Leyte.protect|Southern_Leyte.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Southern_Leyte.private|Southern_Leyte.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Southern_Leyte.personal|Southern_Leyte.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Southern_Leyte.secret|Southern_Leyte.secret]] 
+
+### #is_/same_as :: [Southern_Leyte](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Southern_Leyte.md) 
+
+### #is_/same_as :: [Southern_Leyte.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Southern_Leyte.public.md) 
+
+### #is_/same_as :: [Southern_Leyte.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Southern_Leyte.internal.md) 
+
+### #is_/same_as :: [Southern_Leyte.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Southern_Leyte.protect.md) 
+
+### #is_/same_as :: [Southern_Leyte.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Southern_Leyte.private.md) 
+
+### #is_/same_as :: [Southern_Leyte.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Southern_Leyte.personal.md) 
+
+### #is_/same_as :: [Southern_Leyte.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Southern_Leyte.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Maguindanao/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Maguindanao|Maguindanao]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Maguindanao.public|Maguindanao.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Maguindanao.internal|Maguindanao.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Maguindanao.protect|Maguindanao.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Maguindanao.private|Maguindanao.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Maguindanao.personal|Maguindanao.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Maguindanao.secret|Maguindanao.secret]] 
+
+### #is_/same_as :: [Maguindanao](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Maguindanao.md) 
+
+### #is_/same_as :: [Maguindanao.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Maguindanao.public.md) 
+
+### #is_/same_as :: [Maguindanao.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Maguindanao.internal.md) 
+
+### #is_/same_as :: [Maguindanao.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Maguindanao.protect.md) 
+
+### #is_/same_as :: [Maguindanao.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Maguindanao.private.md) 
+
+### #is_/same_as :: [Maguindanao.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Maguindanao.personal.md) 
+
+### #is_/same_as :: [Maguindanao.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Maguindanao.secret.md)
 
