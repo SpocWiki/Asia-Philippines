@@ -1,30 +1,29 @@
 ---
-location: [ 9.9 , 118.7 ] 
+location:
+  - 9.9
+  - 118.7
 type: geo-Region
 title: Puerto_Princesa
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Puerto_Princesa
-
+  - Puerto_Princesa
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Puerto_Princesa

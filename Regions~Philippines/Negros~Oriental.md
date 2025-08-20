@@ -1,30 +1,29 @@
 ---
-location: [ 9.8 , 123 ] 
+location:
+  - 9.8
+  - 123
 type: geo-Region
 title: Negros_Oriental
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Negros_Oriental
-
+  - Negros_Oriental
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Negros_Oriental

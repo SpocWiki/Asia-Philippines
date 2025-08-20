@@ -1,30 +1,29 @@
 ---
-location: [ 8.6 , 125.7 ] 
+location:
+  - 8.6
+  - 125.7
 type: geo-Region
 title: Agusan_del_Sur
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Agusan_del_Sur
-
+  - Agusan_del_Sur
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Agusan_del_Sur
