@@ -40,17 +40,17 @@ markerFolder: ./Valenzuela/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Valenzuela](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Valenzuela.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Valenzuela|Valenzuela]] 
 
-### #is_/same_as :: [Valenzuela.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Valenzuela.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Valenzuela.public|Valenzuela.public]] 
 
-### #is_/same_as :: [Valenzuela.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Valenzuela.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Valenzuela.internal|Valenzuela.internal]] 
 
-### #is_/same_as :: [Valenzuela.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Valenzuela.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Valenzuela.protect|Valenzuela.protect]] 
 
-### #is_/same_as :: [Valenzuela.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Valenzuela.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Valenzuela.private|Valenzuela.private]] 
 
-### #is_/same_as :: [Valenzuela.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Valenzuela.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Valenzuela.personal|Valenzuela.personal]] 
 
-### #is_/same_as :: [Valenzuela.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Valenzuela.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Valenzuela.secret|Valenzuela.secret]] 
 

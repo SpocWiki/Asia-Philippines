@@ -40,17 +40,17 @@ markerFolder: ./Ilocos_Norte/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ilocos_Norte](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Norte.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Norte|Ilocos_Norte]] 
 
-### #is_/same_as :: [Ilocos_Norte.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Norte.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Norte.public|Ilocos_Norte.public]] 
 
-### #is_/same_as :: [Ilocos_Norte.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Norte.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Norte.internal|Ilocos_Norte.internal]] 
 
-### #is_/same_as :: [Ilocos_Norte.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Norte.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Norte.protect|Ilocos_Norte.protect]] 
 
-### #is_/same_as :: [Ilocos_Norte.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Norte.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Norte.private|Ilocos_Norte.private]] 
 
-### #is_/same_as :: [Ilocos_Norte.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Norte.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Norte.personal|Ilocos_Norte.personal]] 
 
-### #is_/same_as :: [Ilocos_Norte.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Norte.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Norte.secret|Ilocos_Norte.secret]] 
 

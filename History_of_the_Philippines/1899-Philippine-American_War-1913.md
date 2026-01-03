@@ -99,3 +99,20 @@ end_time: 1902-07-02T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Philippine%E2%80%93American%20War) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/History_of_the_Philippines/1899-Philippine-American_War-1913|1899-Philippine-American_War-1913]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/History_of_the_Philippines/1899-Philippine-American_War-1913.public|1899-Philippine-American_War-1913.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/History_of_the_Philippines/1899-Philippine-American_War-1913.internal|1899-Philippine-American_War-1913.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/History_of_the_Philippines/1899-Philippine-American_War-1913.protect|1899-Philippine-American_War-1913.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/History_of_the_Philippines/1899-Philippine-American_War-1913.private|1899-Philippine-American_War-1913.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/History_of_the_Philippines/1899-Philippine-American_War-1913.personal|1899-Philippine-American_War-1913.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/History_of_the_Philippines/1899-Philippine-American_War-1913.secret|1899-Philippine-American_War-1913.secret]] 
+

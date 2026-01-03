@@ -40,17 +40,17 @@ markerFolder: ./Maguindanao/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Maguindanao](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Maguindanao.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Maguindanao|Maguindanao]] 
 
-### #is_/same_as :: [Maguindanao.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Maguindanao.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Maguindanao.public|Maguindanao.public]] 
 
-### #is_/same_as :: [Maguindanao.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Maguindanao.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Maguindanao.internal|Maguindanao.internal]] 
 
-### #is_/same_as :: [Maguindanao.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Maguindanao.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Maguindanao.protect|Maguindanao.protect]] 
 
-### #is_/same_as :: [Maguindanao.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Maguindanao.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Maguindanao.private|Maguindanao.private]] 
 
-### #is_/same_as :: [Maguindanao.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Maguindanao.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Maguindanao.personal|Maguindanao.personal]] 
 
-### #is_/same_as :: [Maguindanao.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Maguindanao.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Maguindanao.secret|Maguindanao.secret]] 
 

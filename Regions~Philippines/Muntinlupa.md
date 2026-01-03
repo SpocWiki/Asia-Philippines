@@ -40,17 +40,17 @@ markerFolder: ./Muntinlupa/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Muntinlupa](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Muntinlupa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Muntinlupa|Muntinlupa]] 
 
-### #is_/same_as :: [Muntinlupa.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Muntinlupa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Muntinlupa.public|Muntinlupa.public]] 
 
-### #is_/same_as :: [Muntinlupa.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Muntinlupa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Muntinlupa.internal|Muntinlupa.internal]] 
 
-### #is_/same_as :: [Muntinlupa.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Muntinlupa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Muntinlupa.protect|Muntinlupa.protect]] 
 
-### #is_/same_as :: [Muntinlupa.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Muntinlupa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Muntinlupa.private|Muntinlupa.private]] 
 
-### #is_/same_as :: [Muntinlupa.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Muntinlupa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Muntinlupa.personal|Muntinlupa.personal]] 
 
-### #is_/same_as :: [Muntinlupa.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Muntinlupa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Muntinlupa.secret|Muntinlupa.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./South_Cotabato/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [South_Cotabato](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/South_Cotabato.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/South_Cotabato|South_Cotabato]] 
 
-### #is_/same_as :: [South_Cotabato.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/South_Cotabato.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/South_Cotabato.public|South_Cotabato.public]] 
 
-### #is_/same_as :: [South_Cotabato.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/South_Cotabato.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/South_Cotabato.internal|South_Cotabato.internal]] 
 
-### #is_/same_as :: [South_Cotabato.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/South_Cotabato.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/South_Cotabato.protect|South_Cotabato.protect]] 
 
-### #is_/same_as :: [South_Cotabato.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/South_Cotabato.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/South_Cotabato.private|South_Cotabato.private]] 
 
-### #is_/same_as :: [South_Cotabato.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/South_Cotabato.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/South_Cotabato.personal|South_Cotabato.personal]] 
 
-### #is_/same_as :: [South_Cotabato.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/South_Cotabato.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/South_Cotabato.secret|South_Cotabato.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Compostela_Valley/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Compostela_Valley](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Compostela_Valley.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Compostela_Valley|Compostela_Valley]] 
 
-### #is_/same_as :: [Compostela_Valley.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Compostela_Valley.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Compostela_Valley.public|Compostela_Valley.public]] 
 
-### #is_/same_as :: [Compostela_Valley.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Compostela_Valley.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Compostela_Valley.internal|Compostela_Valley.internal]] 
 
-### #is_/same_as :: [Compostela_Valley.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Compostela_Valley.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Compostela_Valley.protect|Compostela_Valley.protect]] 
 
-### #is_/same_as :: [Compostela_Valley.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Compostela_Valley.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Compostela_Valley.private|Compostela_Valley.private]] 
 
-### #is_/same_as :: [Compostela_Valley.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Compostela_Valley.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Compostela_Valley.personal|Compostela_Valley.personal]] 
 
-### #is_/same_as :: [Compostela_Valley.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Compostela_Valley.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Compostela_Valley.secret|Compostela_Valley.secret]] 
 

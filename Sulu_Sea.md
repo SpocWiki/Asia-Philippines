@@ -58,3 +58,20 @@ Commons_category: Sulu Sea
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sulu%20Sea) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Sulu_Sea|Sulu_Sea]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Sulu_Sea.public|Sulu_Sea.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Sulu_Sea.internal|Sulu_Sea.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Sulu_Sea.protect|Sulu_Sea.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Sulu_Sea.private|Sulu_Sea.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Sulu_Sea.personal|Sulu_Sea.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Sulu_Sea.secret|Sulu_Sea.secret]] 
+

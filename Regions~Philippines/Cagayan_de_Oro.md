@@ -40,17 +40,17 @@ markerFolder: ./Cagayan_de_Oro/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cagayan_de_Oro](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Cagayan_de_Oro.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Cagayan_de_Oro|Cagayan_de_Oro]] 
 
-### #is_/same_as :: [Cagayan_de_Oro.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Cagayan_de_Oro.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Cagayan_de_Oro.public|Cagayan_de_Oro.public]] 
 
-### #is_/same_as :: [Cagayan_de_Oro.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Cagayan_de_Oro.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Cagayan_de_Oro.internal|Cagayan_de_Oro.internal]] 
 
-### #is_/same_as :: [Cagayan_de_Oro.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Cagayan_de_Oro.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Cagayan_de_Oro.protect|Cagayan_de_Oro.protect]] 
 
-### #is_/same_as :: [Cagayan_de_Oro.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Cagayan_de_Oro.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Cagayan_de_Oro.private|Cagayan_de_Oro.private]] 
 
-### #is_/same_as :: [Cagayan_de_Oro.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Cagayan_de_Oro.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Cagayan_de_Oro.personal|Cagayan_de_Oro.personal]] 
 
-### #is_/same_as :: [Cagayan_de_Oro.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Cagayan_de_Oro.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Cagayan_de_Oro.secret|Cagayan_de_Oro.secret]] 
 

@@ -37,3 +37,20 @@ official_website: https://luwaran.com
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Moro%20Islamic%20Liberation%20Front) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Moro_Islamic_Liberation_Front|Moro_Islamic_Liberation_Front]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Moro_Islamic_Liberation_Front.public|Moro_Islamic_Liberation_Front.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Moro_Islamic_Liberation_Front.internal|Moro_Islamic_Liberation_Front.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Moro_Islamic_Liberation_Front.protect|Moro_Islamic_Liberation_Front.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Moro_Islamic_Liberation_Front.private|Moro_Islamic_Liberation_Front.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Moro_Islamic_Liberation_Front.personal|Moro_Islamic_Liberation_Front.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Moro_Islamic_Liberation_Front.secret|Moro_Islamic_Liberation_Front.secret]] 
+

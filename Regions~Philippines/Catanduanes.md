@@ -40,17 +40,17 @@ markerFolder: ./Catanduanes/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Catanduanes](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Catanduanes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Catanduanes|Catanduanes]] 
 
-### #is_/same_as :: [Catanduanes.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Catanduanes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Catanduanes.public|Catanduanes.public]] 
 
-### #is_/same_as :: [Catanduanes.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Catanduanes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Catanduanes.internal|Catanduanes.internal]] 
 
-### #is_/same_as :: [Catanduanes.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Catanduanes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Catanduanes.protect|Catanduanes.protect]] 
 
-### #is_/same_as :: [Catanduanes.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Catanduanes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Catanduanes.private|Catanduanes.private]] 
 
-### #is_/same_as :: [Catanduanes.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Catanduanes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Catanduanes.personal|Catanduanes.personal]] 
 
-### #is_/same_as :: [Catanduanes.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Catanduanes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Catanduanes.secret|Catanduanes.secret]] 
 

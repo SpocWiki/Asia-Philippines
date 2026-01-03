@@ -41,3 +41,20 @@ Commons_category: Philippine Revolution
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Philippine%20Revolution) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/History_of_the_Philippines/1896-Philippine_Revolution-1898|1896-Philippine_Revolution-1898]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/History_of_the_Philippines/1896-Philippine_Revolution-1898.public|1896-Philippine_Revolution-1898.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/History_of_the_Philippines/1896-Philippine_Revolution-1898.internal|1896-Philippine_Revolution-1898.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/History_of_the_Philippines/1896-Philippine_Revolution-1898.protect|1896-Philippine_Revolution-1898.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/History_of_the_Philippines/1896-Philippine_Revolution-1898.private|1896-Philippine_Revolution-1898.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/History_of_the_Philippines/1896-Philippine_Revolution-1898.personal|1896-Philippine_Revolution-1898.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/History_of_the_Philippines/1896-Philippine_Revolution-1898.secret|1896-Philippine_Revolution-1898.secret]] 
+

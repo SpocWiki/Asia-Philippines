@@ -40,17 +40,17 @@ markerFolder: ./Northern_Samar/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Northern_Samar](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Northern_Samar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Northern_Samar|Northern_Samar]] 
 
-### #is_/same_as :: [Northern_Samar.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Northern_Samar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Northern_Samar.public|Northern_Samar.public]] 
 
-### #is_/same_as :: [Northern_Samar.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Northern_Samar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Northern_Samar.internal|Northern_Samar.internal]] 
 
-### #is_/same_as :: [Northern_Samar.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Northern_Samar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Northern_Samar.protect|Northern_Samar.protect]] 
 
-### #is_/same_as :: [Northern_Samar.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Northern_Samar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Northern_Samar.private|Northern_Samar.private]] 
 
-### #is_/same_as :: [Northern_Samar.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Northern_Samar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Northern_Samar.personal|Northern_Samar.personal]] 
 
-### #is_/same_as :: [Northern_Samar.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Northern_Samar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Northern_Samar.secret|Northern_Samar.secret]] 
 

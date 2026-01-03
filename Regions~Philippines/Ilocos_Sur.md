@@ -40,17 +40,17 @@ markerFolder: ./Ilocos_Sur/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ilocos_Sur](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Sur.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Sur|Ilocos_Sur]] 
 
-### #is_/same_as :: [Ilocos_Sur.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Sur.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Sur.public|Ilocos_Sur.public]] 
 
-### #is_/same_as :: [Ilocos_Sur.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Sur.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Sur.internal|Ilocos_Sur.internal]] 
 
-### #is_/same_as :: [Ilocos_Sur.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Sur.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Sur.protect|Ilocos_Sur.protect]] 
 
-### #is_/same_as :: [Ilocos_Sur.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Sur.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Sur.private|Ilocos_Sur.private]] 
 
-### #is_/same_as :: [Ilocos_Sur.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Sur.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Sur.personal|Ilocos_Sur.personal]] 
 
-### #is_/same_as :: [Ilocos_Sur.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Sur.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Ilocos_Sur.secret|Ilocos_Sur.secret]] 
 

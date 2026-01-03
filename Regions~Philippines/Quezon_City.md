@@ -40,17 +40,17 @@ markerFolder: ./Quezon_City/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Quezon_City](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Quezon_City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Quezon_City|Quezon_City]] 
 
-### #is_/same_as :: [Quezon_City.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Quezon_City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Quezon_City.public|Quezon_City.public]] 
 
-### #is_/same_as :: [Quezon_City.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Quezon_City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Quezon_City.internal|Quezon_City.internal]] 
 
-### #is_/same_as :: [Quezon_City.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Quezon_City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Quezon_City.protect|Quezon_City.protect]] 
 
-### #is_/same_as :: [Quezon_City.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Quezon_City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Quezon_City.private|Quezon_City.private]] 
 
-### #is_/same_as :: [Quezon_City.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Quezon_City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Quezon_City.personal|Quezon_City.personal]] 
 
-### #is_/same_as :: [Quezon_City.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Quezon_City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Quezon_City.secret|Quezon_City.secret]] 
 

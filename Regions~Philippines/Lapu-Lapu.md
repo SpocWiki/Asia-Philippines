@@ -40,17 +40,17 @@ markerFolder: ./Lapu-Lapu/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lapu-Lapu](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Lapu-Lapu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Lapu-Lapu|Lapu-Lapu]] 
 
-### #is_/same_as :: [Lapu-Lapu.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Lapu-Lapu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Lapu-Lapu.public|Lapu-Lapu.public]] 
 
-### #is_/same_as :: [Lapu-Lapu.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Lapu-Lapu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Lapu-Lapu.internal|Lapu-Lapu.internal]] 
 
-### #is_/same_as :: [Lapu-Lapu.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Lapu-Lapu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Lapu-Lapu.protect|Lapu-Lapu.protect]] 
 
-### #is_/same_as :: [Lapu-Lapu.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Lapu-Lapu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Lapu-Lapu.private|Lapu-Lapu.private]] 
 
-### #is_/same_as :: [Lapu-Lapu.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Lapu-Lapu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Lapu-Lapu.personal|Lapu-Lapu.personal]] 
 
-### #is_/same_as :: [Lapu-Lapu.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Lapu-Lapu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Lapu-Lapu.secret|Lapu-Lapu.secret]] 
 

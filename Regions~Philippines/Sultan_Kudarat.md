@@ -40,17 +40,17 @@ markerFolder: ./Sultan_Kudarat/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sultan_Kudarat](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Sultan_Kudarat.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Sultan_Kudarat|Sultan_Kudarat]] 
 
-### #is_/same_as :: [Sultan_Kudarat.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Sultan_Kudarat.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Sultan_Kudarat.public|Sultan_Kudarat.public]] 
 
-### #is_/same_as :: [Sultan_Kudarat.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Sultan_Kudarat.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Sultan_Kudarat.internal|Sultan_Kudarat.internal]] 
 
-### #is_/same_as :: [Sultan_Kudarat.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Sultan_Kudarat.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Sultan_Kudarat.protect|Sultan_Kudarat.protect]] 
 
-### #is_/same_as :: [Sultan_Kudarat.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Sultan_Kudarat.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Sultan_Kudarat.private|Sultan_Kudarat.private]] 
 
-### #is_/same_as :: [Sultan_Kudarat.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Sultan_Kudarat.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Sultan_Kudarat.personal|Sultan_Kudarat.personal]] 
 
-### #is_/same_as :: [Sultan_Kudarat.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Sultan_Kudarat.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Sultan_Kudarat.secret|Sultan_Kudarat.secret]] 
 

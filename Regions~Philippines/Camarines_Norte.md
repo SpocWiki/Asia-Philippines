@@ -40,17 +40,17 @@ markerFolder: ./Camarines_Norte/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Camarines_Norte](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Camarines_Norte.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Camarines_Norte|Camarines_Norte]] 
 
-### #is_/same_as :: [Camarines_Norte.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Camarines_Norte.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Camarines_Norte.public|Camarines_Norte.public]] 
 
-### #is_/same_as :: [Camarines_Norte.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Camarines_Norte.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Camarines_Norte.internal|Camarines_Norte.internal]] 
 
-### #is_/same_as :: [Camarines_Norte.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Camarines_Norte.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Camarines_Norte.protect|Camarines_Norte.protect]] 
 
-### #is_/same_as :: [Camarines_Norte.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Camarines_Norte.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Camarines_Norte.private|Camarines_Norte.private]] 
 
-### #is_/same_as :: [Camarines_Norte.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Camarines_Norte.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Camarines_Norte.personal|Camarines_Norte.personal]] 
 
-### #is_/same_as :: [Camarines_Norte.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Camarines_Norte.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Camarines_Norte.secret|Camarines_Norte.secret]] 
 

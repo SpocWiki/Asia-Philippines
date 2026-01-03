@@ -40,17 +40,17 @@ markerFolder: ./Agusan_del_Sur/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Agusan_del_Sur](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Agusan_del_Sur.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Agusan_del_Sur|Agusan_del_Sur]] 
 
-### #is_/same_as :: [Agusan_del_Sur.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Agusan_del_Sur.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Agusan_del_Sur.public|Agusan_del_Sur.public]] 
 
-### #is_/same_as :: [Agusan_del_Sur.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Agusan_del_Sur.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Agusan_del_Sur.internal|Agusan_del_Sur.internal]] 
 
-### #is_/same_as :: [Agusan_del_Sur.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Agusan_del_Sur.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Agusan_del_Sur.protect|Agusan_del_Sur.protect]] 
 
-### #is_/same_as :: [Agusan_del_Sur.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Agusan_del_Sur.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Agusan_del_Sur.private|Agusan_del_Sur.private]] 
 
-### #is_/same_as :: [Agusan_del_Sur.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Agusan_del_Sur.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Agusan_del_Sur.personal|Agusan_del_Sur.personal]] 
 
-### #is_/same_as :: [Agusan_del_Sur.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Agusan_del_Sur.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Agusan_del_Sur.secret|Agusan_del_Sur.secret]] 
 
