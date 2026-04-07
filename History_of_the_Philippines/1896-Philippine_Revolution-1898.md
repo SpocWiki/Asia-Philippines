@@ -6,14 +6,14 @@ aliases:
   - Revolución Filipina
   - Guerra Tagala
 has_id_wikidata: Q422082
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_the_Philippine_Revolution,27628082]]"
+history_of_topic: "[[_Standards/WikiData/WD~timeline_of_the_Philippine_Revolution,27628082|WD~timeline_of_the_Philippine_Revolution,27628082]]"
 end_time: 1898-01-01T00:00:00Z
 start_time: 1896-01-01T00:00:00Z
-location: "[[_Standards/WikiData/WD~Philippines,928]]"
-country: "[[_Standards/WikiData/WD~Philippines,928]]"
+location: "[[_Standards/WikiData/WD~Philippines,928|WD~Philippines,928]]"
+country: "[[_Standards/WikiData/WD~Philippines,928|WD~Philippines,928]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~revolution,10931]]"
-  - "[[_Standards/WikiData/WD~war,198]]"
+  - "[[_Standards/WikiData/WD~revolution,10931|WD~revolution,10931]]"
+  - "[[_Standards/WikiData/WD~war,198|WD~war,198]]"
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Philippine%20Revolution%20Banner.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/UltimosFilipinas.jpg
 Commons_category: Philippine Revolution

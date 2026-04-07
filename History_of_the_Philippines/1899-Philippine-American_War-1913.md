@@ -5,12 +5,12 @@ aliases:
   - Philippine Insurrection
   - Tagalog Insurgency
 has_id_wikidata: Q214456
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_the_Philippine_American_War,186934]]"
+history_of_topic: "[[_Standards/WikiData/WD~timeline_of_the_Philippine_American_War,186934|WD~timeline_of_the_Philippine_American_War,186934]]"
 participant:
-  - "[[_Standards/WikiData/WD~First_Philippine_Republic,1361989]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~First_Philippine_Republic,1361989|WD~First_Philippine_Republic,1361989]]"
+  - "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
 start_time: 1899-02-04T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~war,198]]"
+instance_of: "[[_Standards/WikiData/WD~war,198|WD~war,198]]"
 U_S_National_Archives_Identifier: "10642506"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Manila646%201899.jpg
 Commons_gallery: Philippine-American War

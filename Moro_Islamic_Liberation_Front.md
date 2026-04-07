@@ -4,10 +4,10 @@ aliases:
   - جبهة تحرير مورو الإسلامية
   - Jabha Taḥrīr Moro al-ʾIslāmiyya
 has_id_wikidata: Q64611
-headquarters_location: "[[_Standards/WikiData/WD~Sultan_Kudarat,212791]]"
-different_from: "[[_Standards/WikiData/WD~MILF,861578]]"
-instance_of: "[[_Standards/WikiData/WD~terrorist_group,4456236]]"
-affiliation: "[[_Standards/WikiData/WD~United_Bangsamoro_Justice_Party,20894741]]"
+headquarters_location: "[[_Standards/WikiData/WD~Sultan_Kudarat,212791|WD~Sultan_Kudarat,212791]]"
+different_from: "[[_Standards/WikiData/WD~MILF,861578|WD~MILF,861578]]"
+instance_of: "[[_Standards/WikiData/WD~terrorist_group,4456236|WD~terrorist_group,4456236]]"
+affiliation: "[[_Standards/WikiData/WD~United_Bangsamoro_Justice_Party,20894741|WD~United_Bangsamoro_Justice_Party,20894741]]"
 inception: 1977-01-01T00:00:00Z
 Commons_category: Moro Islamic Liberation Front
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Milf-emblem.gif

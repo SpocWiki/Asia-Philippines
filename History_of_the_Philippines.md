@@ -1,8 +1,8 @@
 ---
 aliases:
 has_id_wikidata: Q830399
-part_of: "[[_Standards/WikiData/WD~history_of_Southeast_Asia,2227514]]"
-instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
+part_of: "[[_Standards/WikiData/WD~history_of_Southeast_Asia,2227514|WD~history_of_Southeast_Asia,2227514]]"
+instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]"
 Commons_category: History of the Philippines
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Philippine%20History%20Collage.jpg
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Philippine%20history%20timeline.png

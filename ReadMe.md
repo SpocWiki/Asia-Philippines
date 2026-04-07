@@ -150,7 +150,7 @@ markerFolder: ./
 [Area-Land::298170] 
 Continent :: [[Oceania]]  
 [VehicleCode::RP] 
-Capital :: [[geo/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Manila]]  
+Capital :: [[geo/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Manila|Manila]]  
 [Alcohol-l::6.4] 
 [Language-Id::472] 
 [geo-lon::120.97] 
