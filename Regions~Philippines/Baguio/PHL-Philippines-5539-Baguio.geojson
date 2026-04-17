@@ -1,1 +1,2 @@
-﻿{"geometry": {"coordinates": [[[120.65262, 16.35364], [120.58475, 16.35886], [120.56386, 16.43457], [120.64479, 16.43195], [120.65262, 16.35364]]], "type": "Polygon"}, "properties": {"ISO3166-1-Alpha-3": "PHL", "country": "Philippines", "fill": "#F0F", "id": "5539", "name": "Baguio"}, "type": "Feature"}
+{"type":"Feature","properties":{"ISO3166-1-Alpha-3":"PHL","country":"Philippines","fill":"#F0F","id":"5539","name":"Baguio"},
+"geometry":{"type": "Polygon","coordinates": [[[120.65262,16.35364,1044.5425],[120.64479,16.43195,1427.5327],[120.56386,16.43457,1333.0588],[120.58475,16.35886,1335.7161],[120.65262,16.35364,1044.5425]]]}}
