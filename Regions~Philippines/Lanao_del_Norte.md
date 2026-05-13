@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Lanao_del_Norte/
 markerFolder: ./Lanao_del_Norte/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

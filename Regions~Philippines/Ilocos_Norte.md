@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Ilocos_Norte/
 markerFolder: ./Ilocos_Norte/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

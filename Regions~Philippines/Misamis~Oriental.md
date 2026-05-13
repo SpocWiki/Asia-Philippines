@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Misamis_Oriental/
 markerFolder: ./Misamis_Oriental/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

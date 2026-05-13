@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Mindoro_Occidental/
 markerFolder: ./Mindoro_Occidental/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

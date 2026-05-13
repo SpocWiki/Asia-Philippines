@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Ormoc/
 markerFolder: ./Ormoc/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

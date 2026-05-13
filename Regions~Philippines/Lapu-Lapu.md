@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Lapu-Lapu/
 markerFolder: ./Lapu-Lapu/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

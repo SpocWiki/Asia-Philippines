@@ -232,7 +232,7 @@ maxZoom: 18
 >
 > The Pasig River flows through the middle of Manila, dividing it into northern and southern sections. The city comprises 16 administrative districts and is divided into six political districts for the purposes of representation in the Congress of the Philippines and the election of city council members. In 2018, the Globalization and World Cities Research Network listed Manila as an "Alpha-" global city, and ranked it seventh in economic performance globally and second regionally, while the Global Financial Centres Index ranks Manila 79th in the world. Manila is also the world's second most natural disaster-exposed city, yet is also among the fastest-developing cities in Southeast Asia.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Manila)
+> [Wikipedia](https://en.wikipedia.org/wiki/Manila) 
 
 
 ## Confidential Links & Embeds: 

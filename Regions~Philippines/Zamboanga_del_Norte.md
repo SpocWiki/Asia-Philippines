@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Zamboanga_del_Norte/
 markerFolder: ./Zamboanga_del_Norte/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

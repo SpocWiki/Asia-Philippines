@@ -10,7 +10,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./counties~Iloilo/
 markerFolder: ./counties~Iloilo/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

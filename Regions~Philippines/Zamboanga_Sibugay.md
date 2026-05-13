@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Zamboanga_Sibugay/
 markerFolder: ./Zamboanga_Sibugay/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

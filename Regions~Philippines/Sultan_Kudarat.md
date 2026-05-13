@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Sultan_Kudarat/
 markerFolder: ./Sultan_Kudarat/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

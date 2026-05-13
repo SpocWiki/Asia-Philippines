@@ -37,7 +37,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Manila/
 markerFolder: ./Manila/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

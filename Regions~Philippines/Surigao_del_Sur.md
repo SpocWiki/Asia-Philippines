@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Surigao_del_Sur/
 markerFolder: ./Surigao_del_Sur/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

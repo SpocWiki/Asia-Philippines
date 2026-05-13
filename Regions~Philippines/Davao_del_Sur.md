@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Davao_del_Sur/
 markerFolder: ./Davao_del_Sur/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

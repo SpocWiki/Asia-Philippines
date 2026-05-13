@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Mandaluyong_City/
 markerFolder: ./Mandaluyong_City/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

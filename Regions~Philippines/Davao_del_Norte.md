@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Davao_del_Norte/
 markerFolder: ./Davao_del_Norte/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

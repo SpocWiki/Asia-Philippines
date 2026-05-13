@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Las_Pinas/
 markerFolder: ./Las_Pinas/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Bataan/
 markerFolder: ./Bataan/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

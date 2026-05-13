@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Cagayan_de_Oro/
 markerFolder: ./Cagayan_de_Oro/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

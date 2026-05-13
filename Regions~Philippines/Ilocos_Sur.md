@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Ilocos_Sur/
 markerFolder: ./Ilocos_Sur/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

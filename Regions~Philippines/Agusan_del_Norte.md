@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Agusan_del_Norte/
 markerFolder: ./Agusan_del_Norte/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

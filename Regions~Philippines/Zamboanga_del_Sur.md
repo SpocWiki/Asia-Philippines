@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Zamboanga_del_Sur/
 markerFolder: ./Zamboanga_del_Sur/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

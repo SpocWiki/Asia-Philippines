@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Muntinlupa/
 markerFolder: ./Muntinlupa/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

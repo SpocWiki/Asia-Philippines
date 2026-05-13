@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./General_Santos/
 markerFolder: ./General_Santos/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

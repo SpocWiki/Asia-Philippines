@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Compostela_Valley/
 markerFolder: ./Compostela_Valley/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

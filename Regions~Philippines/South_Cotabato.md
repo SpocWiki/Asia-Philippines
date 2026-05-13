@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./South_Cotabato/
 markerFolder: ./South_Cotabato/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

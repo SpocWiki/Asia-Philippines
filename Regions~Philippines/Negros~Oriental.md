@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Negros_Oriental/
 markerFolder: ./Negros_Oriental/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

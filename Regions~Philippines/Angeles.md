@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Angeles/
 markerFolder: ./Angeles/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Lanao_del_Sur/
 markerFolder: ./Lanao_del_Sur/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
