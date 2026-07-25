@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 菲律宾共和国
 dv_UNTERM_French_Formal: la République des Philippines
 dv_UNTERM_Russian: Филиппины
 dv_UNTERM_Russian_Formal: Республика Филиппины
-dv_Region_Name: "[[../../../Asia|Asia]]"
+dv_Region_Name: "[[../../../../Asia|Asia]]"
 dv_Intermediate_Region_Name: "[[Philippines]]"
 dv_Sub-region_Name: "[[South-eastern Asia]]"
 dv_Region: 142
@@ -52,7 +52,7 @@ dv_ISO2: PH
 dv_ISO3: PHL
 dv_is_:
   same_as:
-    - "[[../../../../../WikiData/WD~Philippines,928|WD~Philippines,928]]"
+    - "[[../../../../../../WikiData/WD~Philippines,928|WD~Philippines,928]]"
     - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines|Philippines]]"
     - "[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.public|Philippines.public]]"
     - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.internal|Philippines.internal]]"
@@ -369,17 +369,17 @@ dv_has_:
 dv_has_name_de: Philippinen
 dv_Area-Total: 300000
 dv_Area-Land: 298170
-dv_has_place_continent: "[[../../../Oceania|Oceania]]"
+dv_has_place_continent: "[[../../../../Oceania|Oceania]]"
 dv_VehicleCode: RP
-dv_Capital: "[[geo/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Manila|Manila]]"
+dv_Capital: "[[../geo/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Manila|Manila]]"
 dv_Alcohol-l: 6.4
 dv_Language-Id: 472
-dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 120.97
 dv_has_place_latitude: 14.59
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../../WikiData/WD~Philippines,928|WD~Philippines,928]]"
+  - "[[../../../../../../WikiData/WD~Philippines,928|WD~Philippines,928]]"
   - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines|Philippines]]"
   - "[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.public|Philippines.public]]"
   - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.internal|Philippines.internal]]"
@@ -1275,9 +1275,9 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[geo/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/ReadMe|ReadMe]] 
+[[../geo/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/ReadMe|ReadMe]] 
 
-[[Philippines/Luzon/LUZON-Island.geojson|LUZON-Island]] 
+[[Luzon/LUZON-Island.geojson|LUZON-Island]] 
 
 ## #has_/map  
 
@@ -1297,7 +1297,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Philippines_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
