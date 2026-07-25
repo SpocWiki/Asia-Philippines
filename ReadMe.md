@@ -1,4 +1,5 @@
 ---
+<<<<<<< ReadMe.md (Philippines)
 location:
   - 14.59
   - 120.97
@@ -21,6 +22,833 @@ layout:
 draft: false
 publishDate: 
 expiryDate: 
+=======
+dv_ISO4217-currency_alphabetic: PHP
+dv_ISO4217-currency_name: Philippine Peso
+dv_ISO4217-currency_numeric: 608
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: PHILIPPINES
+dv_Telephone: 63
+dv_Global: true
+dv_Global_Name: World
+dv_has_name: Philippines
+dv_has_name_en: Philippines
+dv_has_name_es: Filipinas
+dv_has_name_fr: Philippines
+dv_has_name_cn: 菲律宾
+dv_has_name_ar: الفلبين
+dv_has_name_ru: Филиппины
+dv_CLDR_display_name: Philippines
+dv_UNTERM_English: Philippines (the)
+dv_UNTERM_English_Formal: the Republic of the Philippines
+dv_UNTERM_Spanish_Formal: la República de Filipinas
+dv_UNTERM_Spanish: Filipinas
+dv_UNTERM_French: Philippines (les) [fém.]
+dv_UNTERM_Arabic: الفلبين
+dv_UNTERM_Arabic_Formal: جمهورية الفلبين
+dv_UNTERM_Chinese: 菲律宾
+dv_UNTERM_Chinese_Formal: 菲律宾共和国
+dv_UNTERM_French_Formal: la République des Philippines
+dv_UNTERM_Russian: Филиппины
+dv_UNTERM_Russian_Formal: Республика Филиппины
+dv_Region_Name: "[[../../../Asia|Asia]]"
+dv_Intermediate_Region_Name: "[[Philippines]]"
+dv_Sub-region_Name: "[[South-eastern Asia]]"
+dv_Region: 142
+dv_Sub-region: 35
+dv_Geoname-ID: 1694008
+dv_FIPS: RP
+dv_FIFA: PHI
+dv_IOC: PHI
+dv_MARC: ph
+dv_GAUL: 196
+dv_WMO: PH
+dv_ITU: PHL
+dv_DS: RP
+dv_TLD: .ph
+dv_EDGAR: R6
+dv_M49: 608
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_ISO3166-1-numeric: 608
+dv_ISO2: PH
+dv_ISO3: PHL
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Philippines,928|WD~Philippines,928]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines|Philippines]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.public|Philippines.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.internal|Philippines.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.protect|Philippines.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.private|Philippines.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.personal|Philippines.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.secret|Philippines.secret]]"
+dv_has_:
+  name_:
+    ab: Филиппин
+    ace: Filipina
+    aeb_arab: الفلپين
+    af: Filippyne
+    am: ፊሊፒንስ
+    ami: Philippines
+    an: Filipinas
+    ang: Philippines
+    anp: फिलीपींस
+    ar: الفلبين
+    arc: ܦܝܠܝܦܝܢܝܐ
+    ary: ڤيليپين
+    arz: الفيليبين
+    as: ফিলিপাইন
+    ast: Filipines
+    avk: Pilipina
+    awa: फिलिपिन्स
+    az: Filippin
+    azb: فیلیپین
+    ba: Филиппин
+    ban: Filipina
+    bar: Philippinen
+    bbc: Pilipina
+    bcl: Filipinas
+    be: Філіпіны
+    be_tarask: Філіпіны
+    bew: Pilipénen
+    bg: Филипини
+    bgn: پیلیپین
+    bho: फिलिपींस
+    bi: Filipin
+    bjn: Pilipina
+    bn: ফিলিপাইন
+    bo: ཧྥི་ལི་པིན།
+    bpy: ফিলিপাইন
+    br: Filipinez
+    brh: Filpáin
+    bs: Filipini
+    btm: Pilipina
+    bug: ᨄᨗᨒᨗᨄᨗᨊ
+    bxr: Филиппин
+    ca: Filipines
+    cbk_zam: Filipinas
+    cdo: Hĭ-lĭ-pĭng
+    ce: Филиппинаш
+    ceb: Pilipinas
+    ch: Filipinas
+    chr: ᎠᏂᏈᎵᎩᏃ
+    ckb: فلیپین
+    co: Filippini
+    crh: Filippinler
+    crh_latn: Filippinler
+    cs: Filipíny
+    csb: Filipinë
+    cv: Филиппинсем
+    cy: y Philipinau
+    da: Filippinerne
+    dag: Philippines
+    de: Philippinen
+    de-at: Philippinen
+    de_ch: Philippinen
+    diq: Fılipin
+    dsb: Filipiny
+    dtp: Filipina
+    dty: फिलिपिन्स
+    dv: ފިލިޕީންސް
+    el: Φιλιππίνες
+    en: Philippines
+    eo: Filipinoj
+    es: Filipinas
+    et: Filipiinid
+    eu: Filipinak
+    ext: Hilipinas
+    fa: فیلیپین
+    ff: Filipiin
+    fi: Filippiinit
+    fj: Filipaini
+    fo: Filipsoyggjar
+    fr: Philippines
+    frp: Felipines
+    frr: Filipiinen
+    fy: Filipinen
+    ga: na hOileáin Fhilipíneacha
+    gag: Filippinner
+    gan: 菲律賓
+    gcr: Filipin
+    gd: Na h-Eileanan Filipineach
+    gl: Filipinas
+    glk: فيليپين
+    gn: Filipina
+    gom: फिलीपिन्स
+    gom-deva: फिलीपिन्स
+    gom_latn: Philippines
+    gor: Pilipina
+    got: 𐍆𐌹𐌻𐌹𐍀𐍀𐌰𐌿𐌾𐍉𐍃
+    gpe: Philippines
+    gsw: Philippine
+    gu: ફીલીપાઈન્સ
+    gv: Ny h-Ellanyn Philippeenagh
+    ha: Filipin
+    hak: Fî-li̍t-pîn
+    haw: ʻĀina Pilipino
+    he: הפיליפינים
+    hi: फ़िलीपीन्स
+    hif: Philippines
+    hr: Filipini
+    hsb: Filipiny
+    ht: Filipin
+    hu: Fülöp-szigetek
+    hy: Ֆիլիպիններ
+    ia: Philippinas
+    iba: Filipina
+    id: Filipina
+    ie: Filipines
+    ik: Philippines
+    ilo: Filipinas
+    io: Filipini
+    is: Filippseyjar
+    it: Filippine
+    ja: フィリピン
+    jam: Filipiinz
+    jbo: pilipinas
+    jv: Pilipina
+    ka: ფილიპინები
+    kaa: Filippin
+    kab: Filippin
+    kbd: Филипинхэр
+    kbp: Filipini
+    kcg: Filipin
+    kg: Philippines
+    kge: Filipina
+    ki: Philippines
+    kk: Филиппиндер
+    kk_cyrl: Филиппин
+    kl: Philippines
+    km: ហ្វីលីពីន
+    kn: ಫಿಲಿಪ್ಪೀನ್ಸ್
+    knc: Philippines
+    ko: 필리핀
+    krc: Филиппинле
+    krj: Filipinas
+    ks: فِلِپیٖن
+    ku: Filîpîn
+    kv: Филиппинъяс
+    kw: Filipinys
+    ky: Филиппиндер
+    la: Philippinae
+    lad: Filipinas
+    lb: Philippinnen
+    lez: Филиппинар
+    lfn: Pilipinas
+    li: Filipiene
+    lij: Filippinn-e
+    lld: Filipines
+    lmo: Filipinn
+    ln: Filípino
+    lo: ປະເທດຟີລິບປິນ
+    lrc: فیلیپین
+    lt: Filipinai
+    lv: Filipīnas
+    lzh: 菲律賓
+    mad: Filipina
+    mag: फिलिपिन्स
+    mai: फिलिपिन्स
+    map_bms: Filipina
+    mdf: Пилиппинтне
+    mg: Filipina
+    mhr: Филиппин-влак
+    mi: Piripīni
+    min: Pilipina
+    mk: Филипини
+    ml: ഫിലിപ്പീൻസ്
+    mn: Филиппин
+    mni: ꯐꯤꯂꯤꯄꯤꯟꯁ
+    mos: Philippines
+    mr: फिलिपाईन्स
+    mrj: Филиппинвлӓ
+    ms: Filipina
+    ms_arab: فيليڤينا
+    mt: Filippini
+    mwl: Filipinas
+    my: ဖိလစ်ပိုင်နိုင်ငံ
+    mzn: فیلیپین
+    na: Eben Piripin
+    nah: Filipinas
+    nan: Hui-li̍p-pin
+    nb: Filippinene
+    nds: Philippinen
+    nds_nl: Filippynen
+    ne: फिलिपिन्स
+    new: फिलिपिन्स
+    nia: Filipina
+    nl: Filipijnen
+    nn: Filippinane
+    nov: Filipines
+    nv: Kéyah Dańlíinii
+    oc: Filipinas
+    olo: Filippinat
+    om: Filiippiinsi
+    or: ଫିଲିପାଇନସ
+    os: Филиппинтæ
+    pa: ਫ਼ਿਲਪੀਨਜ਼
+    pag: Filipinas
+    pam: Filipínas
+    pap: Filipinas
+    pcd: Pilipines
+    pi: 𑀨𑀺𑀮𑀺𑀧𑀺𑀦𑁆𑀤𑁂𑀲𑁄
+    pih: Felapiins
+    pl: Filipiny
+    pms: Filipin-e
+    pnb: فلپائن
+    ps: پېليپين
+    pt: Filipinas
+    pt_br: Filipinas
+    pwn: Pilipinas
+    qu: Philipinakuna
+    rmy: Philippines
+    rn: Filipine
+    ro: Filipine
+    ru: Филиппины
+    rue: Філіпіны
+    rup: Filipinji
+    rw: Filipine
+    sa: फ़िलिपीन्स्
+    sah: Пилипиин
+    sat: ᱯᱷᱤᱞᱤᱯᱟᱭᱤᱱ
+    sc: Filipinas
+    scn: Filippini
+    sco: Philippines
+    sd: فلپائينز
+    se: Filipiinnat
+    sg: Filipîni
+    sgs: Fėlėpinā
+    sh: Filipini
+    shn: မိူင်းၾီႇလိပ်ႈပိၼ်း
+    si: පිලිපීනය
+    sk: Filipíny
+    sl: Filipini
+    sm: Filipaina
+    smj: Filippijnna
+    smn: Filippiineh
+    sms: Filippiin
+    sn: Philippines
+    so: Filibiin
+    sq: Filipinet
+    sr: Филипини
+    srn: Filipins
+    ss: IFiliphayi
+    st: Philippines
+    su: Pilipina
+    sv: Filippinerna
+    sw: Ufilipino
+    syl: ꠙꠤꠟꠤꠙꠤꠘ
+    szl: Filipiny
+    szy: Philippines
+    ta: பிலிப்பீன்சு
+    tay: Philippines
+    te: ఫిలిప్పీన్స్
+    tet: Filipinas
+    tg: Филиппин
+    th: ประเทศฟิลิปปินส์
+    tk: Filippinler
+    tl: Pilipinas
+    tly: Filippin
+    to: Filipaini
+    tok: ma Pilipina
+    tpi: Pilipin
+    tr: Filipinler
+    trv: Philippines
+    tt: Филипин
+    tum: Philippines
+    tw: Philippines
+    udm: Филиппин
+    ug: فىلىپپىن
+    uk: Філіппіни
+    ur: فلپائن
+    uz: Filippin
+    vec: Fiłipine
+    vep: Filippinad
+    vi: Philippines
+    vls: Filipynn
+    vo: Filipuäns
+    vro: Filipiiniq
+    wa: Filipenes
+    war: Pilipinas
+    wo: Filipiin
+    wuu: 菲律宾
+    xal: Пилипмудин Орн
+    xmf: ფილიპინეფი
+    yi: פֿיליפּינען
+    yo: Filipínì
+    yue: 菲律賓
+    za: Feihlizbinh
+    zea: Filepijn’n
+    zh: 菲律賓
+    zh_cn: 菲律宾
+    zh_hans: 菲律宾
+    zh_hant: 菲律賓
+    zh_hk: 菲律賓
+    zh-my: 菲律宾
+    zh_tw: 菲律賓
+    zu: i-Philippines
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Asia-Philippines
+dv_has_name_de: Philippinen
+dv_Area-Total: 300000
+dv_Area-Land: 298170
+dv_has_place_continent: "[[../../../Oceania|Oceania]]"
+dv_VehicleCode: RP
+dv_Capital: "[[geo/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Manila|Manila]]"
+dv_Alcohol-l: 6.4
+dv_Language-Id: 472
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/City|City]]"
+dv_has_place_longitude: 120.97
+dv_has_place_latitude: 14.59
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Philippines,928|WD~Philippines,928]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines|Philippines]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.public|Philippines.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.internal|Philippines.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.protect|Philippines.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.private|Philippines.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.personal|Philippines.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.secret|Philippines.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Philippines
+aliases:
+  - Eben Piripin
+  - Feihlizbinh
+  - Felapiins
+  - Felipines
+  - Filepijn’n
+  - Filibiin
+  - Filiippiinsi
+  - Filipaina
+  - Filipaini
+  - Filipenes
+  - Filipiene
+  - Filipiin
+  - Filipiinen
+  - Filipiinid
+  - Filipiiniq
+  - Filipiinnat
+  - Filipiinz
+  - Filipijnen
+  - Filipin
+  - Filipin-e
+  - Filipina
+  - Filipinai
+  - Filipinak
+  - Filipinas
+  - Filipine
+  - Filipinen
+  - Filipines
+  - Filipinet
+  - Filipinez
+  - Filipini
+  - Filipinji
+  - Filipinler
+  - Filipinn
+  - Filipinoj
+  - Filipins
+  - Filipiny
+  - Filipinys
+  - Filipinë
+  - Filippiin
+  - Filippiineh
+  - Filippiinit
+  - Filippijnna
+  - Filippin
+  - Filippinad
+  - Filippinane
+  - Filippinat
+  - Filippine
+  - Filippinene
+  - Filippinerna
+  - Filippinerne
+  - Filippini
+  - Filippinler
+  - Filippinn-e
+  - Filippinner
+  - Filippseyjar
+  - Filippyne
+  - Filippynen
+  - Filipsoyggjar
+  - Filipuäns
+  - Filipynn
+  - Filipínas
+  - Filipíny
+  - Filipínì
+  - Filipîni
+  - Filipīnas
+  - Filpáin
+  - Filípino
+  - Filîpîn
+  - Fiłipine
+  - Fî-li̍t-pîn
+  - Fülöp-szigetek
+  - Fėlėpinā
+  - Fılipin
+  - Hilipinas
+  - Hui-li̍p-pin
+  - Hĭ-lĭ-pĭng
+  - i-Philippines
+  - IFiliphayi
+  - Kéyah Dańlíinii
+  - la República de Filipinas
+  - ma Pilipina
+  - Na h-Eileanan Filipineach
+  - na hOileáin Fhilipíneacha
+  - Ny h-Ellanyn Philippeenagh
+  - Philipinakuna
+  - Philippinae
+  - Philippinas
+  - Philippine
+  - Philippinen
+  - Philippines
+  - Philippines (the)
+  - Philippinnen
+  - Pilipin
+  - Pilipina
+  - Pilipinas
+  - Pilipines
+  - Pilipénen
+  - Piripīni
+  - the Republic of the Philippines
+  - Ufilipino
+  - y Philipinau
+  - ʻĀina Pilipino
+  - Φιλιππίνες
+  - Пилипиин
+  - Пилипмудин Орн
+  - Пилиппинтне
+  - Філіпіны
+  - Філіппіни
+  - Филипин
+  - Филипини
+  - Филипинхэр
+  - Филиппин
+  - Филиппин-влак
+  - Филиппинар
+  - Филиппинаш
+  - Филиппинвлӓ
+  - Филиппиндер
+  - Филиппинле
+  - Филиппинсем
+  - Филиппинтæ
+  - Филиппинъяс
+  - Филиппины
+  - Ֆիլիպիններ
+  - הפיליפינים
+  - פֿיליפּינען
+  - الفلبين
+  - الفلپين
+  - الفيليبين
+  - فلپائن
+  - فلپائينز
+  - فلیپین
+  - فىلىپپىن
+  - فيليپين
+  - فيليڤينا
+  - فِلِپیٖن
+  - فیلیپین
+  - پیلیپین
+  - پېليپين
+  - ڤيليپين
+  - ܦܝܠܝܦܝܢܝܐ
+  - ފިލިޕީންސް
+  - फ़िलिपीन्स्
+  - फ़िलीपीन्स
+  - फिलिपाईन्स
+  - फिलिपिन्स
+  - फिलिपींस
+  - फिलीपिन्स
+  - फिलीपींस
+  - ফিলিপাইন
+  - ਫ਼ਿਲਪੀਨਜ਼
+  - ફીલીપાઈન્સ
+  - ଫିଲିପାଇନସ
+  - பிலிப்பீன்சு
+  - ఫిలిప్పీన్స్
+  - ಫಿಲಿಪ್ಪೀನ್ಸ್
+  - ഫിലിപ്പീൻസ്
+  - පිලිපීනය
+  - ประเทศฟิลิปปินส์
+  - ປະເທດຟີລິບປິນ
+  - ཧྥི་ལི་པིན།
+  - ဖိလစ်ပိုင်နိုင်ငံ
+  - မိူင်းၾီႇလိပ်ႈပိၼ်း
+  - ფილიპინები
+  - ფილიპინეფი
+  - ፊሊፒንስ
+  - ᎠᏂᏈᎵᎩᏃ
+  - ហ្វីលីពីន
+  - ᨄᨗᨒᨗᨄᨗᨊ
+  - ᱯᱷᱤᱞᱤᱯᱟᱭᱤᱱ
+  - フィリピン
+  - 菲律宾
+  - 菲律賓
+  - ꠙꠤꠟꠤꠙꠤꠘ
+  - ꯐꯤꯂꯤꯄꯤꯟꯁ
+  - 필리핀
+  - 𐍆𐌹𐌻𐌹𐍀𐍀𐌰𐌿𐌾𐍉𐍃
+  - 𑀨𑀺𑀮𑀺𑀧𑀺𑀦𑁆𑀤𑁂𑀲𑁄
+has_id_wikidata: Q928
+age_of_majority:
+  - 18
+  - 21
+aircraft_registration_prefix: RP
+anthem: "[[_Standards/WikiData/WD~Lupang_Hinirang,212725|WD~Lupang_Hinirang,212725]]"
+area: 343448
+basic_form_of_government: "[[_Standards/WikiData/WD~republic,7270|WD~republic,7270]]"
+birth_rate:
+  - 21.618
+  - 21.813
+  - 22.039
+  - 22.254
+BTI_Governance_Index:
+  - 4.9
+  - 4.07
+  - 4.31
+  - 4.69
+  - 4.89
+  - 4.91
+  - 4.92
+  - 5.22
+  - 5.49
+BTI_Status_Index:
+  - 6.4
+  - 5.59
+  - 6.06
+  - 6.09
+  - 6.15
+  - 6.18
+  - 6.47
+  - 6.53
+  - 6.58
+capital: "[[_Standards/WikiData/WD~Manila,1461|WD~Manila,1461]]"
+central_bank: "[[_Standards/WikiData/WD~Bangko_Sentral_ng_Pilipinas,1853468|WD~Bangko_Sentral_ng_Pilipinas,1853468]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_the_Philippines,17201|WD~coat_of_arms_of_the_Philippines,17201]]"
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20the%20Philippines.svg
+Colon_Classification: SG--931
+Commons_category: Philippines
+Commons_gallery: Pilipinas / Philippines
+confidential: public
+contains_the_administrative_territorial_entity:
+  - "[[_Standards/WikiData/WD~Bangsamoro,806550|WD~Bangsamoro,806550]]"
+  - "[[_Standards/WikiData/WD~Ilocos_Region,12933|WD~Ilocos_Region,12933]]"
+  - "[[_Standards/WikiData/WD~Metro_Manila,13580|WD~Metro_Manila,13580]]"
+  - "[[_Standards/WikiData/WD~Cordillera_Administrative_Region,13606|WD~Cordillera_Administrative_Region,13606]]"
+  - "[[_Standards/WikiData/WD~Cagayan_Valley,13615|WD~Cagayan_Valley,13615]]"
+  - "[[_Standards/WikiData/WD~Central_Luzon,13617|WD~Central_Luzon,13617]]"
+  - "[[_Standards/WikiData/WD~Calabarzon,13650|WD~Calabarzon,13650]]"
+  - "[[_Standards/WikiData/WD~Mimaropa,13658|WD~Mimaropa,13658]]"
+  - "[[_Standards/WikiData/WD~Bicol_Region,13662|WD~Bicol_Region,13662]]"
+  - "[[_Standards/WikiData/WD~Western_Visayas,13665|WD~Western_Visayas,13665]]"
+  - "[[_Standards/WikiData/WD~Central_Visayas,13669|WD~Central_Visayas,13669]]"
+  - "[[_Standards/WikiData/WD~Eastern_Visayas,13675|WD~Eastern_Visayas,13675]]"
+  - "[[_Standards/WikiData/WD~Zamboanga_Peninsula,13682|WD~Zamboanga_Peninsula,13682]]"
+  - "[[_Standards/WikiData/WD~Northern_Mindanao,13690|WD~Northern_Mindanao,13690]]"
+  - "[[_Standards/WikiData/WD~Davao_Region,13694|WD~Davao_Region,13694]]"
+  - "[[_Standards/WikiData/WD~Soccsksargen,13701|WD~Soccsksargen,13701]]"
+  - "[[_Standards/WikiData/WD~Caraga,13704|WD~Caraga,13704]]"
+  - "[[_Standards/WikiData/WD~Negros_Island_Region,17081785|WD~Negros_Island_Region,17081785]]"
+contains_the_statistical_territorial_entity:
+  - "[[_Standards/WikiData/WD~Visayas,211436|WD~Visayas,211436]]"
+  - "[[_Standards/WikiData/WD~Luzon,2673519|WD~Luzon,2673519]]"
+  - "[[_Standards/WikiData/WD~Mindanao,4294079|WD~Mindanao,4294079]]"
+continent: "[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]"
+coordinates_of_easternmost_point: Point(126.604444444 7.293333333)
+coordinates_of_northernmost_point: Point(121.95 21.12)
+coordinates_of_westernmost_point: Point(114.283333333 11.05)
+coordinate_location: Point(123.0 12.0)
+country: "[[_Standards/WikiData/WD~Philippines,928|WD~Philippines,928]]"
+country_calling_code: 63
+cssclasses:
+  - Country
+culture: "[[_Standards/WikiData/WD~culture_of_the_Philippines,934605|WD~culture_of_the_Philippines,934605]]"
+death_rate:
+  - 5.566
+  - 5.568
+  - 5.609
+  - 7.311
+Democracy_Index: 6.62
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_the_Philippines,2361183|WD~demographics_of_the_Philippines,2361183]]"
+demonym:
+  - فيليپينيات
+  - فيليپينيين
+  - فيليپينية
+  - فيليپيني
+  - Filipíneach
+  - فلبيني
+  - فلبينية
+  - فلبينيون
+  - filipín
+  - filipina
+  - ফিলিপিনো
+  - Filipina
+  - Filipinano
+  - פיליפיני
+  - פיליפינית
+  - Fülöp-szigeteki
+  - filippina
+  - filippine
+  - filippini
+  - filippino
+  - pilipina
+  - filipinez
+  - filipineză
+  - filipinezi
+  - филиппинцы
+  - fiłipin
+  - fiłipina
+  - fiłipine
+  - fiłipini
+  - Filipino
+  - Filipino
+  - Philippine
+  - Philippin
+  - Philippine
+  - Filipina
+described_by_source:
+  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490|WD~1922_Encyclopædia_Britannica,15987490]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875|WD~The_American_Cyclopædia,19077875]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia_(1902_1905),20089963|WD~New_International_Encyclopedia_(1902_1905),20089963]]"
+detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/PH%20Administrative%20Map.svg
+Dewey_Decimal_Classification: 2--599
+diplomatic_relation:
+  - "[[_Standards/WikiData/WD~Holy_See,159583|WD~Holy_See,159583]]"
+  - "[[_Standards/WikiData/WD~South_Africa,258|WD~South_Africa,258]]"
+  - "[[_Standards/WikiData/WD~Chile,298|WD~Chile,298]]"
+  - "[[_Standards/WikiData/WD~Singapore,334|WD~Singapore,334]]"
+  - "[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]"
+  - "[[_Standards/WikiData/WD~Argentina,414|WD~Argentina,414]]"
+  - "[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]"
+  - "[[_Standards/WikiData/WD~Cambodia,424|WD~Cambodia,424]]"
+  - "[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]"
+  - "[[_Standards/WikiData/WD~Timor-Leste,574|WD~Timor-Leste,574]]"
+  - "[[_Standards/WikiData/WD~India,668|WD~India,668]]"
+  - "[[_Standards/WikiData/WD~Papua_New_Guinea,691|WD~Papua_New_Guinea,691]]"
+  - "[[_Standards/WikiData/WD~Palau,695|WD~Palau,695]]"
+  - "[[_Standards/WikiData/WD~Mongolia,711|WD~Mongolia,711]]"
+  - "[[_Standards/WikiData/WD~Iran,794|WD~Iran,794]]"
+  - "[[_Standards/WikiData/WD~Iraq,796|WD~Iraq,796]]"
+  - "[[_Standards/WikiData/WD~Israel,801|WD~Israel,801]]"
+  - "[[_Standards/WikiData/WD~Laos,819|WD~Laos,819]]"
+  - "[[_Standards/WikiData/WD~Malaysia,833|WD~Malaysia,833]]"
+  - "[[_Standards/WikiData/WD~Myanmar,836|WD~Myanmar,836]]"
+  - "[[_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]"
+  - "[[_Standards/WikiData/WD~Qatar,846|WD~Qatar,846]]"
+  - "[[_Standards/WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]]"
+  - "[[_Standards/WikiData/WD~Sri_Lanka,854|WD~Sri_Lanka,854]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~Thailand,869|WD~Thailand,869]]"
+  - "[[_Standards/WikiData/WD~United_Arab_Emirates,878|WD~United_Arab_Emirates,878]]"
+  - "[[_Standards/WikiData/WD~Vietnam,881|WD~Vietnam,881]]"
+  - "[[_Standards/WikiData/WD~South_Korea,884|WD~South_Korea,884]]"
+  - "[[_Standards/WikiData/WD~Bangladesh,902|WD~Bangladesh,902]]"
+  - "[[_Standards/WikiData/WD~Brunei,921|WD~Brunei,921]]"
+  - "[[_Standards/WikiData/WD~South_Sudan,958|WD~South_Sudan,958]]"
+  - "[[_Standards/WikiData/WD~Djibouti,977|WD~Djibouti,977]]"
+  - "[[_Standards/WikiData/WD~The_Gambia,1005|WD~The_Gambia,1005]]"
+  - "[[_Standards/WikiData/WD~Libya,1016|WD~Libya,1016]]"
+  - "[[_Standards/WikiData/WD~Nigeria,1033|WD~Nigeria,1033]]"
+  - "[[_Standards/WikiData/WD~Hong_Kong,8646|WD~Hong_Kong,8646]]"
+  - "[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]"
+  - "[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]"
+  - "[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]"
+  - "[[_Standards/WikiData/WD~Ireland,27|WD~Ireland,27]]"
+  - "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Spain,29|WD~Spain,29]]"
+  - "[[_Standards/WikiData/WD~Sweden,34|WD~Sweden,34]]"
+  - "[[_Standards/WikiData/WD~Denmark,35|WD~Denmark,35]]"
+  - "[[_Standards/WikiData/WD~Italy,38|WD~Italy,38]]"
+  - "[[_Standards/WikiData/WD~Switzerland,39|WD~Switzerland,39]]"
+  - "[[_Standards/WikiData/WD~Poland,36|WD~Poland,36]]"
+  - "[[_Standards/WikiData/WD~Turkey,43|WD~Turkey,43]]"
+  - "[[_Standards/WikiData/WD~Greece,41|WD~Greece,41]]"
+  - "[[_Standards/WikiData/WD~Mexico,96|WD~Mexico,96]]"
+  - "[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~Brazil,155|WD~Brazil,155]]"
+  - "[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~Iceland,189|WD~Iceland,189]]"
+  - "[[_Standards/WikiData/WD~Ukraine,212|WD~Ukraine,212]]"
+  - "[[_Standards/WikiData/WD~Czech_Republic,213|WD~Czech_Republic,213]]"
+  - "[[_Standards/WikiData/WD~Romania,218|WD~Romania,218]]"
+  - "[[_Standards/WikiData/WD~Croatia,224|WD~Croatia,224]]"
+  - "[[_Standards/WikiData/WD~Cuba,241|WD~Cuba,241]]"
+  - "[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]"
+draft: false
+driving_side: "[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_the_Philippines,1921237|WD~economy_of_the_Philippines,1921237]]"
+electorate: 65745526
+electrical_plug_type:
+  - "[[_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]"
+  - "[[_Standards/WikiData/WD~NEMA_1-15,24288454|WD~NEMA_1-15,24288454]]"
+  - "[[_Standards/WikiData/WD~NEMA_5-15,24288456|WD~NEMA_5-15,24288456]]"
+emergency_phone_number: "[[_Standards/WikiData/WD~911_(Philippines),60061806|WD~911_(Philippines),60061806]]"
+ethnic_group:
+  - "[[_Standards/WikiData/WD~Tagalog_people,1262011|WD~Tagalog_people,1262011]]"
+  - "[[_Standards/WikiData/WD~Visayans,1290600|WD~Visayans,1290600]]"
+  - "[[_Standards/WikiData/WD~Bicolano_people,1293737|WD~Bicolano_people,1293737]]"
+  - "[[_Standards/WikiData/WD~Ilocano,2527423|WD~Ilocano,2527423]]"
+  - "[[_Standards/WikiData/WD~Waray_people,3550146|WD~Waray_people,3550146]]"
+  - "[[_Standards/WikiData/WD~Cebuano_people,3567287|WD~Cebuano_people,3567287]]"
+  - "[[_Standards/WikiData/WD~Hiligaynon_people,17072635|WD~Hiligaynon_people,17072635]]"
+executive_body: "[[_Standards/WikiData/WD~government_of_the_Philippines,7925797|WD~government_of_the_Philippines,7925797]]"
+expiryDate: ""
+Facebook_username: nationalgovernmentportal
+female_population: 53649400
+FIPS_10_4_countries_and_regions_: RP
+flag: "[[_Standards/WikiData/WD~flag_of_the_Philippines,134627|WD~flag_of_the_Philippines,134627]]"
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Philippines.svg
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_the_Philippines,1418238|WD~geography_of_the_Philippines,1418238]]"
+geoshape: http://commons.wikimedia.org/data/main/Data:Philippines.map
+Gini_coefficient: 42.3
+GitHub_topic: philippines
+GS1_country_code: 480
+Happy_Planet_Index_score: 57.1
+hashtag: Philippines
+has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145|WD~partly_free_country,47185145]]"
+head_of_government: "[[_Standards/WikiData/WD~Bongbong_Marcos,983324|WD~Bongbong_Marcos,983324]]"
+head_of_state: "[[_Standards/WikiData/WD~Bongbong_Marcos,983324|WD~Bongbong_Marcos,983324]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_the_Philippines,514212|WD~Supreme_Court_of_the_Philippines,514212]]"
+highest_point: "[[_Standards/WikiData/WD~Mount_Apo,455963|WD~Mount_Apo,455963]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Philippines,830399|WD~history_of_the_Philippines,830399]]"
+Human_Development_Index: 0.699
+IAB_code: 1446
+icon: flag-ph
+inception:
+  - 1565
+  - 1901-07-04
+  - 1946-07-04
+  - 1935-11-15
+Inequality_adjusted_Human_Development_Index: 0.574
+INSEE_countries_and_foreign_territories_code: 99220
+instance_of:
+  - "[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]"
+  - "[[_Standards/WikiData/WD~country,6256|WD~country,6256]]"
+  - "[[_Standards/WikiData/WD~archipelagic_state,13107770|WD~archipelagic_state,13107770]]"
+IOC_country_code: PHI
+IPA_transcription:
+  - filɪˈpiːnən
+  - fɪlɪ'piːnːə
+isDeleted: false
+ISNI: 121800793
+ISO_3166_1_alpha_2_code: PH
+ISO_3166_1_alpha_3_code: PHL
+ISO_3166_1_numeric_code: 608
+isReadOnly: false
+ITU_letter_code: PHL
+keywords: ""
+Krugosvet_article: strany_mira/FILIPPINI.html
+>>>>>>> Philippines.md (parent folder)
 Languages:
   - tl
   - en-PH
@@ -46,6 +874,7 @@ Languages:
   - yka
   - mta
   - abx
+<<<<<<< ReadMe.md (Philippines)
 ---
 
 
@@ -134,10 +963,444 @@ Check out this Repository into this Subfolder:
 
 [ISO2::PH] 
 [ISO3::PHL] 
+=======
+language_used:
+  - "[[_Standards/WikiData/WD~Standard_Chinese,727694|WD~Standard_Chinese,727694]]"
+  - "[[_Standards/WikiData/WD~Eskayan,867086|WD~Eskayan,867086]]"
+  - "[[_Standards/WikiData/WD~Buhid,1002956|WD~Buhid,1002956]]"
+  - "[[_Standards/WikiData/WD~Ibanag,1775596|WD~Ibanag,1775596]]"
+  - "[[_Standards/WikiData/WD~Mag-indi,1931221|WD~Mag-indi,1931221]]"
+  - "[[_Standards/WikiData/WD~Onhan,2400870|WD~Onhan,2400870]]"
+  - "[[_Standards/WikiData/WD~Sambal,2592378|WD~Sambal,2592378]]"
+  - "[[_Standards/WikiData/WD~Bolinao,2669235|WD~Bolinao,2669235]]"
+  - "[[_Standards/WikiData/WD~Abaknon,2820163|WD~Abaknon,2820163]]"
+  - "[[_Standards/WikiData/WD~Balangingih_Sama,2880535|WD~Balangingih_Sama,2880535]]"
+  - "[[_Standards/WikiData/WD~Capisnon,2937525|WD~Capisnon,2937525]]"
+  - "[[_Standards/WikiData/WD~Ibaloi,3147383|WD~Ibaloi,3147383]]"
+  - "[[_Standards/WikiData/WD~Bugkalot,3148787|WD~Bugkalot,3148787]]"
+  - "[[_Standards/WikiData/WD~Kayapa_Kallahan,3192220|WD~Kayapa_Kallahan,3192220]]"
+  - "[[_Standards/WikiData/WD~Keley-I_Kallahan,3192221|WD~Keley-I_Kallahan,3192221]]"
+  - "[[_Standards/WikiData/WD~Kamayo,3192339|WD~Kamayo,3192339]]"
+  - "[[_Standards/WikiData/WD~Karaw,3192950|WD~Karaw,3192950]]"
+  - "[[_Standards/WikiData/WD~Katabangan,3193895|WD~Katabangan,3193895]]"
+  - "[[_Standards/WikiData/WD~Mamanwa,3206623|WD~Mamanwa,3206623]]"
+  - "[[_Standards/WikiData/WD~Ati,3217458|WD~Ati,3217458]]"
+  - "[[_Standards/WikiData/WD~Mapun,3287253|WD~Mapun,3287253]]"
+  - "[[_Standards/WikiData/WD~Alangan,3327423|WD~Alangan,3327423]]"
+  - "[[_Standards/WikiData/WD~Pangutaran_Sama,3362086|WD~Pangutaran_Sama,3362086]]"
+  - "[[_Standards/WikiData/WD~Manide,3399682|WD~Manide,3399682]]"
+  - "[[_Standards/WikiData/WD~Inagta_Alabat,3399709|WD~Inagta_Alabat,3399709]]"
+  - "[[_Standards/WikiData/WD~Agutaynen,3399717|WD~Agutaynen,3399717]]"
+  - "[[_Standards/WikiData/WD~Abellen,3436621|WD~Abellen,3436621]]"
+  - "[[_Standards/WikiData/WD~Gaddang,3438830|WD~Gaddang,3438830]]"
+  - "[[_Standards/WikiData/WD~Ambala,3448896|WD~Ambala,3448896]]"
+  - "[[_Standards/WikiData/WD~Ibatag,3450443|WD~Ibatag,3450443]]"
+  - "[[_Standards/WikiData/WD~Southern_Sama,3470594|WD~Southern_Sama,3470594]]"
+  - "[[_Standards/WikiData/WD~Central_Sama,3470593|WD~Central_Sama,3470593]]"
+  - "[[_Standards/WikiData/WD~Sangil,3472206|WD~Sangil,3472206]]"
+  - "[[_Standards/WikiData/WD~Arta,3508067|WD~Arta,3508067]]"
+  - "[[_Standards/WikiData/WD~Sinauna,3508085|WD~Sinauna,3508085]]"
+  - "[[_Standards/WikiData/WD~Ivatan,3547080|WD~Ivatan,3547080]]"
+  - "[[_Standards/WikiData/WD~Philippine_Sign_Language,3551357|WD~Philippine_Sign_Language,3551357]]"
+  - "[[_Standards/WikiData/WD~Yakan,3571351|WD~Yakan,3571351]]"
+  - "[[_Standards/WikiData/WD~Aborlan_Tagbanwa,3915475|WD~Aborlan_Tagbanwa,3915475]]"
+  - "[[_Standards/WikiData/WD~Calamian_Tagbanwa,3915487|WD~Calamian_Tagbanwa,3915487]]"
+  - "[[_Standards/WikiData/WD~Central_Tagbanwa,3915515|WD~Central_Tagbanwa,3915515]]"
+  - "[[_Standards/WikiData/WD~Itawis,3915527|WD~Itawis,3915527]]"
+  - "[[_Standards/WikiData/WD~Botolan,4095195|WD~Botolan,4095195]]"
+  - "[[_Standards/WikiData/WD~Mag-antsi,4356243|WD~Mag-antsi,4356243]]"
+  - "[[_Standards/WikiData/WD~English,1860|WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~Aklanon,8773|WD~Aklanon,8773]]"
+  - "[[_Standards/WikiData/WD~Mandarin,9192|WD~Mandarin,9192]]"
+  - "[[_Standards/WikiData/WD~Ratagnon,13197|WD~Ratagnon,13197]]"
+  - "[[_Standards/WikiData/WD~Romblomanon,13202|WD~Romblomanon,13202]]"
+  - "[[_Standards/WikiData/WD~Bantoanon,29490|WD~Bantoanon,29490]]"
+  - "[[_Standards/WikiData/WD~Caluyanon,32964|WD~Caluyanon,32964]]"
+  - "[[_Standards/WikiData/WD~Cuyonon,33153|WD~Cuyonon,33153]]"
+  - "[[_Standards/WikiData/WD~Cebuano,33239|WD~Cebuano,33239]]"
+  - "[[_Standards/WikiData/WD~Chavacano,33281|WD~Chavacano,33281]]"
+  - "[[_Standards/WikiData/WD~Central_Bikol,33284|WD~Central_Bikol,33284]]"
+  - "[[_Standards/WikiData/WD~Filipino,33298|WD~Filipino,33298]]"
+  - "[[_Standards/WikiData/WD~Maguindanao,33717|WD~Maguindanao,33717]]"
+  - "[[_Standards/WikiData/WD~Karay-a,33720|WD~Karay-a,33720]]"
+  - "[[_Standards/WikiData/WD~Maranao,33800|WD~Maranao,33800]]"
+  - "[[_Standards/WikiData/WD~Pangasinan,33879|WD~Pangasinan,33879]]"
+  - "[[_Standards/WikiData/WD~Masbateño,33948|WD~Masbateño,33948]]"
+  - "[[_Standards/WikiData/WD~Tagalog,34057|WD~Tagalog,34057]]"
+  - "[[_Standards/WikiData/WD~Tausug,34142|WD~Tausug,34142]]"
+  - "[[_Standards/WikiData/WD~Surigaonon,34140|WD~Surigaonon,34140]]"
+  - "[[_Standards/WikiData/WD~Waray,34279|WD~Waray,34279]]"
+  - "[[_Standards/WikiData/WD~Hanunó'o,35435|WD~Hanunó'o,35435]]"
+  - "[[_Standards/WikiData/WD~Bikol,35455|WD~Bikol,35455]]"
+  - "[[_Standards/WikiData/WD~Ilocano,35936|WD~Ilocano,35936]]"
+  - "[[_Standards/WikiData/WD~Hiligaynon,35978|WD~Hiligaynon,35978]]"
+  - "[[_Standards/WikiData/WD~Kapampangan,36121|WD~Kapampangan,36121]]"
+  - "[[_Standards/WikiData/WD~Ata,4812603|WD~Ata,4812603]]"
+  - "[[_Standards/WikiData/WD~Klata,4842057|WD~Klata,4842057]]"
+  - "[[_Standards/WikiData/WD~Balangao,4850033|WD~Balangao,4850033]]"
+  - "[[_Standards/WikiData/WD~Binukid,4914553|WD~Binukid,4914553]]"
+  - "[[_Standards/WikiData/WD~Mariveleño,4921648|WD~Mariveleño,4921648]]"
+  - "[[_Standards/WikiData/WD~Bontoc,4942634|WD~Bontoc,4942634]]"
+  - "[[_Standards/WikiData/WD~Butuanon,5003156|WD~Butuanon,5003156]]"
+  - "[[_Standards/WikiData/WD~Cagayan_Agta,5017296|WD~Cagayan_Agta,5017296]]"
+  - "[[_Standards/WikiData/WD~Davawenyo,5228174|WD~Davawenyo,5228174]]"
+  - "[[_Standards/WikiData/WD~Dicamay_Agta,5272321|WD~Dicamay_Agta,5272321]]"
+  - "[[_Standards/WikiData/WD~Dumagat_Agta,5313599|WD~Dumagat_Agta,5313599]]"
+  - "[[_Standards/WikiData/WD~Dupaningan_Agta,5315912|WD~Dupaningan_Agta,5315912]]"
+  - "[[_Standards/WikiData/WD~Ga'dang,5515189|WD~Ga'dang,5515189]]"
+  - "[[_Standards/WikiData/WD~Higaonon,5753411|WD~Higaonon,5753411]]"
+  - "[[_Standards/WikiData/WD~Iraya,6068356|WD~Iraya,6068356]]"
+  - "[[_Standards/WikiData/WD~Inagta_Partido,6078982|WD~Inagta_Partido,6078982]]"
+  - "[[_Standards/WikiData/WD~Isinai,6081098|WD~Isinai,6081098]]"
+  - "[[_Standards/WikiData/WD~Isnag,6085162|WD~Isnag,6085162]]"
+  - "[[_Standards/WikiData/WD~Kagayanen,6346422|WD~Kagayanen,6346422]]"
+  - "[[_Standards/WikiData/WD~Karolanos,6373093|WD~Karolanos,6373093]]"
+  - "[[_Standards/WikiData/WD~Kasiguranin,6374525|WD~Kasiguranin,6374525]]"
+  - "[[_Standards/WikiData/WD~Kinabalian,6410324|WD~Kinabalian,6410324]]"
+  - "[[_Standards/WikiData/WD~Forohanon,6583710|WD~Forohanon,6583710]]"
+  - "[[_Standards/WikiData/WD~Magahat,6729600|WD~Magahat,6729600]]"
+  - "[[_Standards/WikiData/WD~Mandaya,6747925|WD~Mandaya,6747925]]"
+  - "[[_Standards/WikiData/WD~Matigsalug,6787447|WD~Matigsalug,6787447]]"
+  - "[[_Standards/WikiData/WD~Molbog,6895718|WD~Molbog,6895718]]"
+  - "[[_Standards/WikiData/WD~Mount_Iraya_Agta,6921430|WD~Mount_Iraya_Agta,6921430]]"
+  - "[[_Standards/WikiData/WD~Mount_Iriga_Agta,6921432|WD~Mount_Iriga_Agta,6921432]]"
+  - "[[_Standards/WikiData/WD~Northern_Alta,7058116|WD~Northern_Alta,7058116]]"
+  - "[[_Standards/WikiData/WD~Pandan_Bikol,7130477|WD~Pandan_Bikol,7130477]]"
+  - "[[_Standards/WikiData/WD~Paranan_Agta,7135432|WD~Paranan_Agta,7135432]]"
+  - "[[_Standards/WikiData/WD~Paranan,7135433|WD~Paranan,7135433]]"
+  - "[[_Standards/WikiData/WD~Sarangani,7423093|WD~Sarangani,7423093]]"
+  - "[[_Standards/WikiData/WD~Sorsogon_Ayta,7563752|WD~Sorsogon_Ayta,7563752]]"
+  - "[[_Standards/WikiData/WD~Southern_Alta,7569611|WD~Southern_Alta,7569611]]"
+  - "[[_Standards/WikiData/WD~Southern_Catanduanes_Bikol,7569754|WD~Southern_Catanduanes_Bikol,7569754]]"
+  - "[[_Standards/WikiData/WD~Sulod,7636489|WD~Sulod,7636489]]"
+  - "[[_Standards/WikiData/WD~Tadyawan,7674700|WD~Tadyawan,7674700]]"
+  - "[[_Standards/WikiData/WD~Tagabawa,7675121|WD~Tagabawa,7675121]]"
+  - "[[_Standards/WikiData/WD~Tboli,7690594|WD~Tboli,7690594]]"
+  - "[[_Standards/WikiData/WD~Tiruray,7809425|WD~Tiruray,7809425]]"
+  - "[[_Standards/WikiData/WD~Tuwali,7857158|WD~Tuwali,7857158]]"
+  - "[[_Standards/WikiData/WD~Umiray_Dumaget,7881585|WD~Umiray_Dumaget,7881585]]"
+  - "[[_Standards/WikiData/WD~Western_Bukidnon_Manobo,7987643|WD~Western_Bukidnon_Manobo,7987643]]"
+  - "[[_Standards/WikiData/WD~Yogad,8054343|WD~Yogad,8054343]]"
+  - "[[_Standards/WikiData/WD~Adasen,11214797|WD~Adasen,11214797]]"
+  - "[[_Standards/WikiData/WD~Villa_Viciosa_Agta,12626611|WD~Villa_Viciosa_Agta,12626611]]"
+  - "[[_Standards/WikiData/WD~Ata_Manobo,12627315|WD~Ata_Manobo,12627315]]"
+  - "[[_Standards/WikiData/WD~Banao_Itneg,12627559|WD~Banao_Itneg,12627559]]"
+  - "[[_Standards/WikiData/WD~Bikol,12627923|WD~Bikol,12627923]]"
+  - "[[_Standards/WikiData/WD~Faire_Atta,12630884|WD~Faire_Atta,12630884]]"
+  - "[[_Standards/WikiData/WD~I-Wak,12632789|WD~I-Wak,12632789]]"
+  - "[[_Standards/WikiData/WD~Rinconada_Bikol,12633026|WD~Rinconada_Bikol,12633026]]"
+  - "[[_Standards/WikiData/WD~Southern_Subanen,12635302|WD~Southern_Subanen,12635302]]"
+  - "[[_Standards/WikiData/WD~Pamplona_Atta,12639245|WD~Pamplona_Atta,12639245]]"
+  - "[[_Standards/WikiData/WD~Pudtol_Atta,12640726|WD~Pudtol_Atta,12640726]]"
+  - "[[_Standards/WikiData/WD~Mansaka,12952800|WD~Mansaka,12952800]]"
+  - "[[_Standards/WikiData/WD~Batad,12953578|WD~Batad,12953578]]"
+  - "[[_Standards/WikiData/WD~Mayoyao,12953579|WD~Mayoyao,12953579]]"
+  - "[[_Standards/WikiData/WD~Moyadan_Itneg,12953583|WD~Moyadan_Itneg,12953583]]"
+  - "[[_Standards/WikiData/WD~Binongan_Itneg,12953584|WD~Binongan_Itneg,12953584]]"
+  - "[[_Standards/WikiData/WD~Inlaod_Itneg,12953585|WD~Inlaod_Itneg,12953585]]"
+  - "[[_Standards/WikiData/WD~Lubuagan_Kalinga,12953602|WD~Lubuagan_Kalinga,12953602]]"
+  - "[[_Standards/WikiData/WD~Northern_Kankanay,12953609|WD~Northern_Kankanay,12953609]]"
+  - "[[_Standards/WikiData/WD~Cotabato_Manobo,12953698|WD~Cotabato_Manobo,12953698]]"
+  - "[[_Standards/WikiData/WD~Obo,12953699|WD~Obo,12953699]]"
+  - "[[_Standards/WikiData/WD~Agusan_Manobo,12953696|WD~Agusan_Manobo,12953696]]"
+  - "[[_Standards/WikiData/WD~Kinamigin,12953697|WD~Kinamigin,12953697]]"
+  - "[[_Standards/WikiData/WD~Rajah_Kabunsuwan_Manobo,12953700|WD~Rajah_Kabunsuwan_Manobo,12953700]]"
+  - "[[_Standards/WikiData/WD~Central_Palawano,12953795|WD~Central_Palawano,12953795]]"
+  - "[[_Standards/WikiData/WD~Brooke's_Point_Palawano,12953796|WD~Brooke's_Point_Palawano,12953796]]"
+  - "[[_Standards/WikiData/WD~Northern_Subanen,12953892|WD~Northern_Subanen,12953892]]"
+  - "[[_Standards/WikiData/WD~Central_Subanen,12953893|WD~Central_Subanen,12953893]]"
+  - "[[_Standards/WikiData/WD~Western_Tawbuid,12953912|WD~Western_Tawbuid,12953912]]"
+  - "[[_Standards/WikiData/WD~Ilianen,14916911|WD~Ilianen,14916911]]"
+  - "[[_Standards/WikiData/WD~Southwest_Palawano,15614922|WD~Southwest_Palawano,15614922]]"
+  - "[[_Standards/WikiData/WD~North_Sorsoganon,16113356|WD~North_Sorsoganon,16113356]]"
+  - "[[_Standards/WikiData/WD~Western_Subanon,16113894|WD~Western_Subanon,16113894]]"
+  - "[[_Standards/WikiData/WD~Koronadal_Blaan,16115430|WD~Koronadal_Blaan,16115430]]"
+  - "[[_Standards/WikiData/WD~Sarangani_Blaan,16117272|WD~Sarangani_Blaan,16117272]]"
+  - "[[_Standards/WikiData/WD~Bantayanon,16837866|WD~Bantayanon,16837866]]"
+  - "[[_Standards/WikiData/WD~Baybay,16839275|WD~Baybay,16839275]]"
+  - "[[_Standards/WikiData/WD~West_Albay_Bikol,18603801|WD~West_Albay_Bikol,18603801]]"
+  - "[[_Standards/WikiData/WD~Libon_Bikol,18664462|WD~Libon_Bikol,18664462]]"
+  - "[[_Standards/WikiData/WD~Buhi_Bikol,18664494|WD~Buhi_Bikol,18664494]]"
+  - "[[_Standards/WikiData/WD~Miraya_Bikol,18664557|WD~Miraya_Bikol,18664557]]"
+  - "[[_Standards/WikiData/WD~Ibatan,18748212|WD~Ibatan,18748212]]"
+  - "[[_Standards/WikiData/WD~Amganad,18748222|WD~Amganad,18748222]]"
+  - "[[_Standards/WikiData/WD~Maeng_Itneg,18748761|WD~Maeng_Itneg,18748761]]"
+  - "[[_Standards/WikiData/WD~Masadiit_Itneg,18748769|WD~Masadiit_Itneg,18748769]]"
+  - "[[_Standards/WikiData/WD~Kalagan,18748906|WD~Kalagan,18748906]]"
+  - "[[_Standards/WikiData/WD~Kagan_Kalagan,18748913|WD~Kagan_Kalagan,18748913]]"
+  - "[[_Standards/WikiData/WD~Limos_Kalinga,18753303|WD~Limos_Kalinga,18753303]]"
+  - "[[_Standards/WikiData/WD~Kalinga_Butbut,18753300|WD~Kalinga_Butbut,18753300]]"
+  - "[[_Standards/WikiData/WD~Southern_Kalinga,18753301|WD~Southern_Kalinga,18753301]]"
+  - "[[_Standards/WikiData/WD~Tanudan_Kalinga,18753307|WD~Tanudan_Kalinga,18753307]]"
+  - "[[_Standards/WikiData/WD~Mabaka_Valley_Kalinga,18753304|WD~Mabaka_Valley_Kalinga,18753304]]"
+  - "[[_Standards/WikiData/WD~Majukayang_Kalinga,18753305|WD~Majukayang_Kalinga,18753305]]"
+  - "[[_Standards/WikiData/WD~Kankanaey,18753329|WD~Kankanaey,18753329]]"
+  - "[[_Standards/WikiData/WD~Malay_Aklanon,18755512|WD~Malay_Aklanon,18755512]]"
+  - "[[_Standards/WikiData/WD~Dibabawon_Manobo,18755523|WD~Dibabawon_Manobo,18755523]]"
+  - "[[_Standards/WikiData/WD~South_Sorsoganon,18755610|WD~South_Sorsoganon,18755610]]"
+  - "[[_Standards/WikiData/WD~Kolibugan_Subanen,18755617|WD~Kolibugan_Subanen,18755617]]"
+  - "[[_Standards/WikiData/WD~Tagakaulo,18756514|WD~Tagakaulo,18756514]]"
+  - "[[_Standards/WikiData/WD~Eastern_Tawbuid,18757427|WD~Eastern_Tawbuid,18757427]]"
+  - "[[_Standards/WikiData/WD~Ata,34397870|WD~Ata,34397870]]"
+  - "[[_Standards/WikiData/WD~Eastern_Bontok,62664215|WD~Eastern_Bontok,62664215]]"
+  - "[[_Standards/WikiData/WD~Iranun,63214936|WD~Iranun,63214936]]"
+  - "[[_Standards/WikiData/WD~Central_Bontok,63257803|WD~Central_Bontok,63257803]]"
+  - "[[_Standards/WikiData/WD~Southern_Bontok,63308144|WD~Southern_Bontok,63308144]]"
+  - "[[_Standards/WikiData/WD~Northern_Bontok,63311016|WD~Northern_Bontok,63311016]]"
+  - "[[_Standards/WikiData/WD~Eastern_Subanen,63311321|WD~Eastern_Subanen,63311321]]"
+  - "[[_Standards/WikiData/WD~Tandaganon,63311769|WD~Tandaganon,63311769]]"
+  - "[[_Standards/WikiData/WD~Southwestern_Bontok,63313677|WD~Southwestern_Bontok,63313677]]"
+layout: ""
+legislative_body: "[[_Standards/WikiData/WD~Congress_of_the_Philippines,1542985|WD~Congress_of_the_Philippines,1542985]]"
+licence_plate_code: RP
+license: CC BY-SA 4.0
+life_expectancy: 71.095
+linkTitle: ""
+literacy_rate: 96.3
+located_in_or_next_to_body_of_water:
+  - "[[_Standards/WikiData/WD~Philippine_Sea,159183|WD~Philippine_Sea,159183]]"
+  - "[[_Standards/WikiData/WD~Celebes_Sea,19270|WD~Celebes_Sea,19270]]"
+  - "[[_Standards/WikiData/WD~South_China_Sea,37660|WD~South_China_Sea,37660]]"
+located_in_time_zone:
+  - "[[_Standards/WikiData/WD~Philippine_Standard_Time,3543509|WD~Philippine_Standard_Time,3543509]]"
+  - "[[_Standards/WikiData/WD~Asia_Manila,63285954|WD~Asia_Manila,63285954]]"
+location:
+  - 14.59
+  - 120.97
+location_map:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Philippines%20adm%20location%20map.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Ph%20general%20map.png
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Philippines%20on%20the%20globe%20%28Philippines%20centered%29.svg
+lowest_point: "[[_Standards/WikiData/WD~Philippine_Sea,159183|WD~Philippine_Sea,159183]]"
+M49_code: 608
+mains_voltage: 220
+male_population: 55017643
+maritime_identification_digits: 548
+marriageable_age: 21
+median_income: 307190
+member_of:
+  - "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]"
+  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]"
+  - "[[_Standards/WikiData/WD~Asia-Pacific_Economic_Cooperation,170481|WD~Asia-Pacific_Economic_Cooperation,170481]]"
+  - "[[_Standards/WikiData/WD~Asian_Development_Bank,188822|WD~Asian_Development_Bank,188822]]"
+  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+  - "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611|WD~International_Hydrographic_Organization,233611]]"
+  - "[[_Standards/WikiData/WD~Southeast_Asia_Treaty_Organization,277252|WD~Southeast_Asia_Treaty_Organization,277252]]"
+  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]"
+  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]"
+  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]"
+  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770|WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+  - "[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]"
+  - "[[_Standards/WikiData/WD~Association_of_South-East_Asian_Nations,7768|WD~Association_of_South-East_Asian_Nations,7768]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]"
+  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825|WD~World_Trade_Organization,7825]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]"
+  - "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262|WD~Group_on_Earth_Observations,5611262]]"
+  - "[[_Standards/WikiData/WD~ASEAN_Regional_Forum,7886981|WD~ASEAN_Regional_Forum,7886981]]"
+MeSH_tree_code:
+  - Z01.252.145.671
+  - Z01.639.790
+mobile_country_code: 515
+motto: "[[_Standards/WikiData/WD~Maka-Diyos,_Maka-Tao,_Makakalikasan_at_Makabansa,25047907|WD~Maka-Diyos,_Maka-Tao,_Makakalikasan_at_Makabansa,25047907]]"
+motto_text:
+  - Mae'n fwy o hwyl yn y Philipinau
+  - It's more fun in the Philippines
+name:
+  - Republik der Philippinen
+  - République des Philippines
+  - Republiken Filippinerna
+  - Pilipinas
+  - Republic of the Philippines
+named_after: "[[_Standards/WikiData/WD~Philip_II_of_Spain,34417|WD~Philip_II_of_Spain,34417]]"
+native_label:
+  - Philippines
+  - Pilipinas
+  - Philippines
+nominal_GDP:
+  - 394087362017
+  - 404284327312
+number_of_households: 26393906
+number_of_out_of_school_children: 1070690
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_the_Philippines,1209571|WD~President_of_the_Philippines,1209571]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_the_Philippines,1209571|WD~President_of_the_Philippines,1209571]]"
+official_language:
+  - "[[_Standards/WikiData/WD~English,1860|WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~Filipino,33298|WD~Filipino,33298]]"
+official_name:
+  - Republika ng Pilipinas
+  - Republic of the Philippines
+official_website: https://www.gov.ph
+OmegaWiki_Defined_Meaning: 8540
+open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Philippines,97062501|WD~Open_Data_Philippines,97062501]]"
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Banaue%20Wikivoyage%20banner.jpg
+participant_in: "[[_Standards/WikiData/WD~ASEAN_cable_system,4654163|WD~ASEAN_cable_system,4654163]]"
+part_of: "[[_Standards/WikiData/WD~Southeast_Asia,11708|WD~Southeast_Asia,11708]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828373,22828373|WD~Q22828373,22828373]]"
+PM20_geo_code: B86
+population: 109035343
+poverty_incidence: 13.2
+pronunciation_audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Philippinen.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/En-us-Philippines.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q34239%20%28kok%29-Fredericknoronha-Philippines.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Philippinnen.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Filipine.wav
+public_holiday:
+  - "[[_Standards/WikiData/WD~Maundy_Thursday,106333|WD~Maundy_Thursday,106333]]"
+  - "[[_Standards/WikiData/WD~New_Year's_Day,196627|WD~New_Year's_Day,196627]]"
+  - "[[_Standards/WikiData/WD~Eid_al-Fitr,464458|WD~Eid_al-Fitr,464458]]"
+  - "[[_Standards/WikiData/WD~Eid_al-Adha,514400|WD~Eid_al-Adha,514400]]"
+  - "[[_Standards/WikiData/WD~Feast_of_the_Immaculate_Conception,3538509|WD~Feast_of_the_Immaculate_Conception,3538509]]"
+  - "[[_Standards/WikiData/WD~Christmas,19809|WD~Christmas,19809]]"
+  - "[[_Standards/WikiData/WD~Good_Friday,40317|WD~Good_Friday,40317]]"
+  - "[[_Standards/WikiData/WD~International_Workers'_Day,47499|WD~International_Workers'_Day,47499]]"
+  - "[[_Standards/WikiData/WD~Bataan_Day,4868509|WD~Bataan_Day,4868509]]"
+  - "[[_Standards/WikiData/WD~Independence_Day,6016007|WD~Independence_Day,6016007]]"
+  - "[[_Standards/WikiData/WD~Rizal_Day,7339069|WD~Rizal_Day,7339069]]"
+  - "[[_Standards/WikiData/WD~Bonifacio_Day,48767421|WD~Bonifacio_Day,48767421]]"
+  - "[[_Standards/WikiData/WD~National_Heroes'_Day,111811564|WD~National_Heroes'_Day,111811564]]"
+publish: true
+publishDate: ""
+railway_traffic_side: "[[_Standards/WikiData/WD~left,13196750|WD~left,13196750]]"
+relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Relief%20Map%20Of%20The%20Philippines.png
+religion_or_worldview:
+  - "[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]"
+  - "[[_Standards/WikiData/WD~Catholicism,1841|WD~Catholicism,1841]]"
+  - "[[_Standards/WikiData/WD~Christianity,5043|WD~Christianity,5043]]"
+replaces: "[[_Standards/WikiData/WD~Commonwealth_of_the_Philippines,146328|WD~Commonwealth_of_the_Philippines,146328]]"
+retirement_age: 60
+rural_population: 50102516
+satellite_view: http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Philippines%20in%20March%202002.jpg
+seal_image: http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20of%20the%20Philippines.svg
+shares_border_with:
+  - "[[_Standards/WikiData/WD~Palau,695|WD~Palau,695]]"
+  - "[[_Standards/WikiData/WD~Malaysia,833|WD~Malaysia,833]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]"
+short_name:
+  - 🇵🇭
+  - PH
+  - RP
+social_media_followers: 1060116
+source: https://datahub.io/core/country-codes
+SpocWebEntityId: 26994
+studied_in: "[[_Standards/WikiData/WD~Filipinology,2088309|WD~Filipinology,2088309]]"
+subreddit: Philippines
+suicide_rate: 2.5
+tags:
+  - geo/Country
+title: Philippines
+topic_s_main_template:
+  - "[[_Standards/WikiData/WD~Template_Administrative_divisions_of_the_Philippines,6291793|WD~Template_Administrative_divisions_of_the_Philippines,6291793]]"
+  - "[[_Standards/WikiData/WD~Template_Philippines_topics,10977281|WD~Template_Philippines_topics,10977281]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Philippines,14615000|WD~Portal_Philippines,14615000]]"
+top_level_Internet_domain: "[[_Standards/WikiData/WD~.ph,41840|WD~.ph,41840]]"
+total_fertility_rate: 2.89
+trunk_prefix: 0
+type: Country
+UMLS_CUI: C0031529
+unemployment_rate: 7.1
+urban_population: 58930729
+U_S_National_Archives_Identifier: 10035764
+VAT_rate: 12
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_Philippines,7112774|WD~outline_of_the_Philippines,7112774]]"
+WIPO_ST_3: PH
+Unicode_character: 🇵🇭
+---
+
+# [[Philippines]] 🇵🇭 
+
+## #has_/properties 
+
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
+
+Telephone = `=this.dv_Telephone`
+
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
+
+name = `=this.dv_has_name`
+[	has_name_en	 :: Philippines ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
+
+CLDR_display_name = `=this.dv_CLDR_display_name`
+
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French` ]
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
+
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
+
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
+
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
+
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
+[	Land_Locked_Developing_Countries	 ::  ]
+[	Least_Developed_Countries	 ::  ]
+[	Small_is_a = `=this.dv_is_a_`
+
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
+
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
+
+is_a = `=this.dv_is_a_`
+
+For more Details, check out this Repository into this Subfolder: 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
+
+[[geo/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/ReadMe|ReadMe]] 
+
+[[Philippines/Luzon/LUZON-Island.geojson|LUZON-Island]] 
+
+## #has_/map  
+>>>>>>> Philippines.md (parent folder)
 
 ```leaflet
 id: Philippines
 zoomFeatures: true 
+<<<<<<< ReadMe.md (Philippines)
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./Regions~Philippines// 
@@ -155,10 +1418,72 @@ Capital :: [[geo/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Re
 [Language-Id::472] 
 [geo-lon::120.97] 
 [geo-lat::14.59] 
+=======
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Philippines/
+markerFolder: ./Philippines/
+coordinates: [[Philippines]] 
+markerFile: [[Philippines]] 
+defaultZoom: 5 
+```
+
+### #has_/map_/topologic 
+
+```leaflet
+id: Philippines_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Philippines//
+markerFolder: ./Philippines/
+coordinates: [[Philippines]] 
+markerFile: [[Philippines]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
+[has_name_en::Philippines]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
+
+
+
+ is_a = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
+
+
+## #has_/text_of_/abstract 
+
+> The **Philippines**, officially the Republic of the Philippines, is an archipelagic country in Southeast Asia. In the western Pacific Ocean, it consists of 7,641 islands, with a total area of roughly 300,000 square kilometers, which are broadly categorized in three main geographical divisions from north to south: Luzon, Visayas, and Mindanao. With a population of over 110 million, it is the world's twelfth-most-populous country. 
+>
+> The Philippines is bounded by the South China Sea to the west, the Philippine Sea to the east, and the Celebes Sea to the south. It shares maritime borders with Taiwan to the north, Japan to the northeast, Palau to the east and southeast, Indonesia to the south, Malaysia to the southwest, Vietnam to the west, and China to the northwest. It has diverse ethnicities and a rich culture. Manila is the country's capital, and its most populated city is Quezon City. Both are within Metro Manila. 
+>
+> Negritos, the archipelago's earliest inhabitants, were followed by waves of Austronesian peoples. The adoption of animism, Hinduism with Buddhist influence, and Islam established island-kingdoms. Extensive overseas trade with neighbors such as the late Tang or Song empire brought Chinese people to the archipelago as well, which would also gradually settle in and intermix over the centuries. The arrival of the explorer Ferdinand Magellan marked the beginning of Spanish colonization. In 1543, Spanish explorer Ruy López de Villalobos named the archipelago Las Islas Filipinas in honor of King Philip II of Castile. Catholicism became the dominant religion, and Manila became the western hub of trans-Pacific trade. Hispanic immigrants from Latin America and Iberia would also selectively colonize. The Philippine Revolution began in 1896, and became entwined with the 1898 Spanish–American War. Spain ceded the territory to the United States, and Filipino revolutionaries declared the First Philippine Republic. The ensuing Philippine–American War ended with the United States controlling the territory until the Japanese invasion of the islands during World War II. After the United States retook the Philippines from the Japanese, the Philippines became independent in 1946. Since then, the country notably experienced a period of martial law from 1972 to 1981 under the dictatorship of Ferdinand Marcos and his subsequent overthrow by the People Power Revolution in 1986. Since returning to democracy, the constitution of the Fifth Republic was enacted in 1987, and the country has been governed as a unitary presidential republic. However, the country continues to struggle with issues such as overpopulation, inequality and endemic corruption.
+>
+> The Philippines is an emerging market and a developing and newly industrialized country, whose economy is transitioning from being agricultural to service- and manufacturing-centered. Its location as an island country on the Pacific Ring of Fire and close to the equator makes it prone to earthquakes and typhoons. The Philippines has a variety of natural resources and a globally-significant level of biodiversity. The country is part of multiple international organizations and forums.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Philippines) 
+>>>>>>> Philippines.md (parent folder)
 
 
 ## Confidential Links & Embeds: 
 
+<<<<<<< ReadMe.md (Philippines)
 ### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/ReadMe|ReadMe]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/ReadMe.public|ReadMe.public]] 
@@ -172,4 +1497,19 @@ Capital :: [[geo/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Re
 ### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/ReadMe.personal|ReadMe.personal]] 
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/ReadMe.secret|ReadMe.secret]] 
+=======
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines|Philippines]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.public|Philippines.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.internal|Philippines.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.protect|Philippines.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.private|Philippines.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.personal|Philippines.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.secret|Philippines.secret]] 
+>>>>>>> Philippines.md (parent folder)
 
